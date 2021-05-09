@@ -1,0 +1,893 @@
+PassengerId	Survived	Pclass	Name	Sex	Age	SibSp	Parch	Ticket	Fare	Cabin	Embarked	ship
+1	0	3	Braund, Mr. Owen Harris	m	22.0	1	0	A/5 21171	725		S	Titanic
+2	1	1	Cumings, Mrs. John Bradley (Florence Briggs Thayer)	f	38.0	1	0	PC 17599	712833	C85	C	Titanic
+3	1	3	Heikkinen, Miss. Laina	f	26.0	0	0	STON/O2. 3101282	7925		S	Titanic
+4	1	1	Futrelle, Mrs. Jacques Heath (Lily May Peel)	f	35.0	1	0	113803	531	C123	S	Titanic
+5	0	3	Allen, Mr. William Henry	m	35.0	0	0	373450	805		S	Titanic
+6	0	3	Moran, Mr. James	m	35.929165507649515	0	0	330877	84583		Q	Titanic
+7	0	1	McCarthy, Mr. Timothy J	m	54.0	0	0	17463	518625	E46	S	Titanic
+8	0	3	Palsson, Master. Gosta Leonard	m	2.0	3	1	349909	21075		S	Titanic
+9	1	3	Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)	f	27.0	0	2	347742	111333		S	Titanic
+10	1	2	Nasser, Mrs. Nicholas (Adele Achem)	f	14.0	1	0	237736	300708		C	Titanic
+11	1	3	Sandstrom, Miss. Marguerite Ru&5$$	f	4.0	1	1	PP 9549	167	G6	S	Titanic
+12	1	1	Bonnell, Miss. Elizabeth	f	58.0	0	0	113783	2655	C103	S	Titanic
+13	0	3	Saundercock, Mr. William Henry	m	20.0	0	0	A/5. 2151	805		S	Titanic
+14	1	3	Sandstrom, Miss. Marguerite Ru&5$$	f	4.0	1	1	PP 9549	167	G6	S	Titanic
+15	0	3	Vestrom, Miss. Hulda Amanda Adolfina	f	14.0	0	0	350406	78542		S	Titanic
+16	1	2	Hewlett, Mrs. (Mary D Kingcome)	f	55.0	0	0	248706	16		S	Titanic
+17	0	3	Rice, Master. Eugene	m	2.0	4	1	382652	29125		Q	Titanic
+18	1	2	Williams, Mr. Charles Eugene	m	35.929165507649515	0	0	244373	13		S	Titanic
+19	0	3	Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)	f	31.0	1	0	345763	18		S	Titanic
+20	1	3	Masselmani, Mrs. Fatima	f	35.929165507649515	0	0	2649	7225		C	Titanic
+21	0	2	Fynney, Mr. Joseph J	m	35.0	0	0	239865	26		S	Titanic
+22	1	2	Beesley, Mr. Lawrence	m	34.0	0	0	248698	13	D56	S	Titanic
+23	1	3	"McGowan, Miss. Anna ""Annie"""	f	15.0	0	0	330923	80292		Q	Titanic
+24	1	3	Sandstrom, Miss. Marguerite Ru&5$$	f	4.0	1	1	PP 9549	167	G6	S	Titanic
+25	0	3	Palsson, Miss. Torborg Danira	f	8.0	3	1	349909	21075		S	Titanic
+26	1	3	Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)	f	38.0	1	5	347077	313875		S	Titanic
+27	0	3	Emir, Mr. Farred Chehab	m	35.929165507649515	0	0	2631	7225		C	Titanic
+28	0	1	Fortune, Mr. Charles Alexander	m	19.0	3	2	19950	263	C23 C25 C27	S	Titanic
+29	1	3	"O'Dwyer, Miss. Ellen ""Nellie"""	f	35.929165507649515	0	0	330959	78792		Q	Titanic
+30	0	3	Todoroff, Mr. Lalio	m	35.929165507649515	0	0	349216	78958		S	Titanic
+31	0	1	Uruchurtu, Don. Manuel E	m	40.0	0	0	PC 17601	277208		C	Titanic
+32	1	1	Spencer, Mrs. William Augustus (Marie Eugenie)	f	0.9	1	0	PC 17569	1465208	B78	C	Titanic
+33	1	3	Glynn, Miss. Mary Agatha	f	35.929165507649515	0	0	335677	775		Q	Titanic
+34	0	2	Wheadon, Mr. Edward H	m	66.0	0	0	C.A. 24579	105		S	Titanic
+35	0	1	Meyer, Mr. Edgar Joseph	m	28.0	1	0	PC 17604	821708		C	Titanic
+36	0	1	Holverson, Mr. Alexander Oskar	m	42.0	1	0	113789	52		S	Titanic
+37	1	3	Mamee, Mr. Hanna	m	35.929165507649515	0	0	2677	72292		C	Titanic
+38	0	3	Cann, Mr. Ernest Charles	m	21.0	0	0	A./5. 2152	805		S	Titanic
+39	0	3	Vander Planke, Miss. Augusta Maria	f	18.0	2	0	345764	18		S	Titanic
+40	1	3	Nicola-Yarred, Miss. Jamila	f	14.0	1	0	2651	112417		C	Titanic
+41	0	3	Ahlin, Mrs. Johan (Johanna Persdotter Larsson)	f	40.0	1	0	7546	9475		S	Titanic
+42	0	2	Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)	f	27.0	1	0	11668	21		S	Titanic
+43	0	3	Kraeff, Mr. Theodor	m	35.929165507649515	0	0	349253	78958		C	Titanic
+44	1	2	Laroche, Miss. Simonne Marie Anne Andree	f	3.0	1	2	SC/Paris 2123	415792		C	Titanic
+45	1	3	Devaney, Miss. Margaret Delia	f	19.0	0	0	330958	78792		Q	Titanic
+46	0	3	Rogers, Mr. William John	m	35.929165507649515	0	0	S.C./A.4. 23567	805		S	Titanic
+47	0	3	Lennon, Mr. Denis	m	35.929165507649515	1	0	370371	155		Q	Titanic
+48	1	3	O'Driscoll, Miss. Bridget	f	35.929165507649515	0	0	14311	775		Q	Titanic
+49	0	3	Samaan, Mr. Youssef	m	35.929165507649515	2	0	2662	216792		C	Titanic
+50	0	3	Arnold-Franchi, Mrs. Josef (Josefine Franchi)	f	18.0	1	0	349237	178		S	Titanic
+51	0	3	Panula, Master. Juha Niilo	m	7.0	4	1	3101295	396875		S	Titanic
+52	0	3	Nosworthy, Mr. Richard Cater	m	21.0	0	0	A/4. 39886	78		S	Titanic
+53	1	1	Harper, Mrs. Henry Sleeper (Myna Haxtun)	f	49.0	1	0	PC 17572	767292	D33	C	Titanic
+54	1	2	Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)	f	29.0	1	0	2926	26		S	Titanic
+55	0	1	Ostby, Mr. Engelhart Cornelius	m	65.0	0	1	113509	619792	B30	C	Titanic
+56	1	1	Woolner, Mr. Hugh	m	35.929165507649515	0	0	19947	355	C52	S	Titanic
+57	1	2	Rugg, Miss. Emily	f	21.0	0	0	C.A. 31026	105		S	Titanic
+58	0	3	Novel, Mr. Mansouer	m	28.5	0	0	2697	72292		C	Titanic
+59	1	2	West, Miss. Constance Mirium	f	5.0	1	2	C.A. 34651	2775		S	Titanic
+60	0	3	Goodwin, Master. William Frederick	m	11.0	5	2	CA 2144	469		S	Titanic
+61	0	3	Sirayanian, Mr. Orsen	m	22.0	0	0	2669	72292		C	Titanic
+62	1	1	Icard, Miss. Amelie	f	38.0	0	0	113572	80	B28	n	Titanic
+63	0	1	Harris, Mr. Henry Birkhardt	m	45.0	1	0	36973	83475	C83	S	Titanic
+64	0	3	Skoog, Master. Harald	m	4.0	3	2	347088	279		S	Titanic
+65	0	1	Stewart, Mr. Albert A	m	35.929165507649515	0	0	PC 17605	277208		C	Titanic
+66	1	3	Moubarek, Master. Gerios	m	35.929165507649515	1	1	2661	152458		C	Titanic
+67	1	2	Nye, Mrs. (Elizabeth Ramell)	f	29.0	0	0	C.A. 29395	105	F33	S	Titanic
+68	0	3	Crease, Mr. Ernest James	m	19.0	0	0	S.P. 3464	81583		S	Titanic
+69	1	3	Andersson, Miss. Erna Alexandra	f	17.0	4	2	3101281	7925		S	Titanic
+70	0	3	Kink, Mr. Vincenz	m	26.0	2	0	315151	86625		S	Titanic
+71	0	2	Jenkin, Mr. Stephen Curnow	m	32.0	0	0	C.A. 33111	105		S	Titanic
+72	0	3	Goodwin, Miss. Lillian Amy	f	16.0	5	2	CA 2144	469		S	Titanic
+73	0	2	Hood, Mr. Ambrose Jr	m	21.0	0	0	S.O.C. 14879	735		S	Titanic
+74	0	3	Chronopoulos, Mr. Apostolos	m	26.0	1	0	2680	144542		C	Titanic
+75	1	3	Bing, Mr. Lee	m	32.0	0	0	1601	564958		S	Titanic
+76	0	3	Moen, Mr. Sigurd Hansen	m	25.0	0	0	348123	765	F G73	S	Titanic
+77	0	3	Staneff, Mr. Ivan	m	35.929165507649515	0	0	349208	78958		S	Titanic
+78	0	3	Moutal, Mr. Rahamin Haim	m	35.929165507649515	0	0	374746	805		S	Titanic
+79	1	2	Caldwell, Master. Alden Gates	m	0.83	0	2	248738	29		S	Titanic
+80	1	3	Dowdell, Miss. Elizabeth	f	30.0	0	0	364516	12475		S	Titanic
+81	0	3	Waelens, Mr. Achille	m	22.0	0	0	345767	9		S	Titanic
+82	1	3	Sheerlinck, Mr. Jan Baptist	m	29.0	0	0	345779	95		S	Titanic
+83	1	3	McDermott, Miss. Brigdet Delia	f	35.929165507649515	0	0	330932	77875		Q	Titanic
+84	0	1	Carrau, Mr. Francisco M	m	28.0	0	0	113059	471		S	Titanic
+85	1	2	Ilett, Miss. Bertha	f	17.0	0	0	SO/C 14885	105		S	Titanic
+86	1	3	Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)	f	33.0	3	0	3101278	1585		S	Titanic
+87	0	3	Ford, Mr. William Neal	m	16.0	1	3	W./C. 6608	34375		S	Titanic
+88	0	3	Slocovski, Mr. Selman Francis	m	35.929165507649515	0	0	SOTON/OQ 392086	805		S	Titanic
+89	1	1	Fortune, Miss. Mabel Helen	f	23.0	3	2	19950	263	C23 C25 C27	S	Titanic
+90	0	3	Celotti, Mr. Francesco	m	24.0	0	0	343275	805		S	Titanic
+91	0	3	Christmann, Mr. Emil	m	29.0	0	0	343276	805		S	Titanic
+92	0	3	Andreasson, Mr. Paul Edvin	m	20.0	0	0	347466	78542		S	Titanic
+93	0	1	Chaffee, Mr. Herbert Fuller	m	46.0	1	0	W.E.P. 5734	61175	E31	S	Titanic
+94	0	3	Dean, Mr. Bertram Frank	m	26.0	1	2	C.A. 2315	20575		S	Titanic
+95	0	3	Coxon, Mr. Daniel	m	59.0	0	0	364500	725		S	Titanic
+96	0	3	Shorney, Mr. Charles Joseph	m	35.929165507649515	0	0	374910	805		S	Titanic
+97	0	1	Goldschmidt, Mr. George B	m	71.0	0	0	PC 17754	346542	A5	C	Titanic
+98	1	1	Greenfield, Mr. William Bertram	m	23.0	0	1	PC 17759	633583	D10 D12	C	Titanic
+99	1	2	Doling, Mrs. John T (Ada Julia Bone)	f	34.0	0	1	231919	23		S	Titanic
+100	0	2	Kantor, Mr. Sinai	m	34.0	1	0	244367	26		S	Titanic
+101	0	3	Petranec, Miss. Matilda	f	28.0	0	0	349245	78958		S	Titanic
+102	0	3	"Petroff, Mr. Pastcho (""Pentcho"")"	m	35.929165507649515	0	0	349215	78958		S	Titanic
+103	0	1	White, Mr. Richard Frasar	m	21.0	0	1	35281	772875	D26	S	Titanic
+104	0	3	Johansson, Mr. Gustaf Joel	m	33.0	0	0	7540	86542		S	Titanic
+105	0	3	Gustafsson, Mr. Anders Vilhelm	m	37.0	2	0	3101276	7925		S	Titanic
+106	0	3	Mionoff, Mr. Stoytcho	m	28.0	0	0	349207	78958		S	Titanic
+107	1	3	Salkjelsvik, Miss. Anna Kristine	f	21.0	0	0	343120	765		S	Titanic
+108	1	3	Moss, Mr. Albert Johan	m	35.929165507649515	0	0	312991	7775		S	Titanic
+109	0	3	Rekic, Mr. Tido	m	38.0	0	0	349249	78958		S	Titanic
+110	1	3	Moran, Miss. Bertha	f	35.929165507649515	1	0	371110	2415		Q	Titanic
+111	0	1	Porter, Mr. Walter Chamberlain	m	47.0	0	0	110465	52	C110	S	Titanic
+112	0	3	Zabour, Miss. Hileni	f	14.5	1	0	2665	144542		C	Titanic
+113	0	3	Barton, Mr. David John	m	22.0	0	0	324669	805		S	Titanic
+114	0	3	Jussila, Miss. Katriina	f	20.0	1	0	4136	9825		S	Titanic
+115	0	3	Attalah, Miss. Malake	f	17.0	0	0	2627	144583		C	Titanic
+116	0	3	Pekoniemi, Mr. Edvard	m	21.0	0	0	STON/O 2. 3101294	7925		S	Titanic
+117	0	3	Connors, Mr. Patrick	m	70.5	0	0	370369	775		Q	Titanic
+118	0	2	Turpin, Mr. William John Robert	m	29.0	1	0	11668	21		S	Titanic
+119	0	1	Baxter, Mr. Quigg Edmond	m	24.0	0	1	PC 17558	2475208	B58 B60	C	Titanic
+120	0	3	Andersson, Miss. Ellis Anna Maria	f	2.0	4	2	347082	31275		S	Titanic
+121	0	2	Hickman, Mr. Stanley George	m	21.0	2	0	S.O.C. 14879	735		S	Titanic
+122	0	3	Moore, Mr. Leonard Charles	m	35.929165507649515	0	0	A4. 54510	805		S	Titanic
+123	0	2	Nasser, Mr. Nicholas	m	32.5	1	0	237736	300708		C	Titanic
+124	1	2	Webber, Miss. Susan	f	32.5	0	0	27267	13	E101	S	Titanic
+125	0	1	White, Mr. Percival Wayland	m	54.0	0	1	35281	772875	D26	S	Titanic
+126	1	3	Nicola-Yarred, Master. Elias	m	12.0	1	0	2651	112417		C	Titanic
+127	0	3	McMahon, Mr. Martin	m	35.929165507649515	0	0	370372	775		Q	Titanic
+128	1	3	Madsen, Mr. Fridtjof Arne	m	24.0	0	0	C 17369	71417		S	Titanic
+129	1	3	Peter, Miss. Anna	f	35.929165507649515	1	1	2668	223583	F E69	C	Titanic
+130	0	3	Ekstrom, Mr. Johan	m	45.0	0	0	347061	6975		S	Titanic
+131	0	3	Drazenoic, Mr. Jozef	m	33.0	0	0	349241	78958		C	Titanic
+132	0	3	Coelho, Mr. Domingos Fernandeo	m	20.0	0	0	SOTON/O.Q. 3101307	705		S	Titanic
+133	0	3	Robins, Mrs. Alexander A (Grace Charity Laury)	f	47.0	1	0	A/5. 3337	145		S	Titanic
+134	1	2	Weisz, Mrs. Leopold (Mathilde Francoise Pede)	f	29.0	1	0	228414	26		S	Titanic
+135	0	2	Sobey, Mr. Samuel James Hayden	m	25.0	0	0	C.A. 29178	13		S	Titanic
+136	0	2	Richard, Mr. Emile	m	23.0	0	0	SC/PARIS 2133	150458		C	Titanic
+137	1	1	Newsom, Miss. Helen Monypeny	f	19.0	0	2	11752	262833	D47	S	Titanic
+138	0	1	Futrelle, Mr. Jacques Heath	m	37.0	1	0	113803	531	C123	S	Titanic
+139	0	3	Osen, Mr. Olaf Elon	m	16.0	0	0	7534	92167		S	Titanic
+140	0	1	Giglio, Mr. Victor	m	24.0	0	0	PC 17593	792	B86	C	Titanic
+141	0	3	Boulos, Mrs. Joseph (Sultana)	f	35.929165507649515	0	2	2678	152458		C	Titanic
+142	1	3	Nysten, Miss. Anna Sofia	f	22.0	0	0	347081	775		S	Titanic
+143	1	3	Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)	f	24.0	1	0	STON/O2. 3101279	1585		S	Titanic
+144	0	3	Burke, Mr. Jeremiah	m	19.0	0	0	365222	675		Q	Titanic
+145	0	2	Andrew, Mr. Edgardo Samuel	m	18.0	0	0	231945	115		S	Titanic
+146	0	2	Nicholls, Mr. Joseph Charles	m	19.0	1	1	C.A. 33112	3675		S	Titanic
+147	1	3	"Andersson, Mr. August Edvard (""Wennerstrom"")"	m	27.0	0	0	350043	77958		S	Titanic
+148	0	3	"Ford, Miss. Robina Maggie ""Ruby"""	f	9.0	2	2	W./C. 6608	34375		S	Titanic
+149	0	2	"Navratil, Mr. Michel (""Louis M Hoffman"")"	m	36.5	0	2	230080	26	F2	S	Titanic
+150	0	2	Byles, Rev. Thomas Roussel Davids	m	42.0	0	0	244310	13		S	Titanic
+151	0	2	Bateman, Rev. Robert James	m	51.0	0	0	S.O.P. 1166	12525		S	Titanic
+152	1	1	Pears, Mrs. Thomas (Edith Wearne)	f	22.0	1	0	113776	666	C2	S	Titanic
+153	0	3	Meo, Mr. Alfonzo	m	55.5	0	0	A.5. 11206	805		S	Titanic
+154	0	3	van Billiard, Mr. Austin Blyler	m	40.5	0	2	A/5. 851	145		S	Titanic
+155	0	3	Olsen, Mr. Ole Martin	m	35.929165507649515	0	0	Fa 265302	73125		S	Titanic
+156	0	1	Williams, Mr. Charles Duane	m	51.0	0	1	PC 17597	613792		C	Titanic
+157	1	3	"Gilnagh, Miss. Katherine ""Katie"""	f	16.0	0	0	35851	77333		Q	Titanic
+158	0	3	Corn, Mr. Harry	m	30.0	0	0	SOTON/OQ 392090	805		S	Titanic
+159	0	3	Smiljanic, Mr. Mile	m	35.929165507649515	0	0	315037	86625		S	Titanic
+160	0	3	Sage, Master. Thomas Henry	m	35.929165507649515	8	2	CA. 2343	6955		S	Titanic
+161	0	3	Cribb, Mr. John Hatfield	m	44.0	0	1	371362	161		S	Titanic
+162	1	2	"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)"	f	40.0	0	0	C.A. 33595	1575		S	Titanic
+163	0	3	Bengtsson, Mr. John Viktor	m	26.0	0	0	347068	7775		S	Titanic
+164	0	3	Calic, Mr. Jovo	m	17.0	0	0	315093	86625		S	Titanic
+165	0	3	Panula, Master. Eino Viljami	m	1.0	4	1	3101295	396875		S	Titanic
+166	1	3	"Goldsmith, Master. Frank John William ""Frankie"""	m	9.0	0	2	363291	20525		S	Titanic
+167	1	1	Chibnall, Mrs. (Edith Martha Bowerman)	f	35.929165507649515	0	1	113505	55	E33	S	Titanic
+168	0	3	Skoog, Mrs. William (Anna Bernhardina Karlsson)	f	45.0	1	4	347088	279		S	Titanic
+169	0	1	Baumann, Mr. John D	m	35.929165507649515	0	0	PC 17318	25925		S	Titanic
+170	0	3	Ling, Mr. Lee	m	28.0	0	0	1601	564958		S	Titanic
+171	0	1	Van der hoef, Mr. Wyckoff	m	61.0	0	0	111240	335	B19	S	Titanic
+172	0	3	Rice, Master. Arthur	m	4.0	4	1	382652	29125		Q	Titanic
+173	1	3	Johnson, Miss. Eleanor Ileen	f	1.0	1	1	347742	111333		S	Titanic
+174	0	3	Sivola, Mr. Antti Wilhelm	m	21.0	0	0	STON/O 2. 3101280	7925		S	Titanic
+175	0	1	Smith, Mr. James Clinch	m	56.0	0	0	17764	306958	A7	C	Titanic
+176	0	3	Klasen, Mr. Klas Albin	m	18.0	1	1	350404	78542		S	Titanic
+177	0	3	Lefebre, Master. Henry Forbes	m	35.929165507649515	3	1	4133	254667		S	Titanic
+178	0	1	Isham, Miss. Ann Elizabeth	f	50.0	0	0	PC 17595	287125	C49	C	Titanic
+179	0	2	Hale, Mr. Reginald	m	30.0	0	0	250653	13		S	Titanic
+180	0	3	Leonard, Mr. Lionel	m	36.0	0	0	LINE	0		S	Titanic
+181	0	3	Sage, Miss. Constance Gladys	f	35.929165507649515	8	2	CA. 2343	6955		S	Titanic
+182	0	2	Pernot, Mr. Rene	m	35.929165507649515	0	0	SC/PARIS 2131	1505		C	Titanic
+183	0	3	Asplund, Master. Clarence Gustaf Hugo	m	9.0	4	2	347077	313875		S	Titanic
+184	1	2	Becker, Master. Richard F	m	1.0	2	1	230136	39	F4	S	Titanic
+185	1	3	Kink-Heilmann, Miss. Luise Gretchen	f	4.0	0	2	315153	22025		S	Titanic
+186	0	1	Rood, Mr. Hugh Roscoe	m	35.929165507649515	0	0	113767	50	A32	S	Titanic
+187	1	3	"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)"	f	35.929165507649515	1	0	370365	155		Q	Titanic
+188	1	1	"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")"	m	45.0	0	0	111428	2655		S	Titanic
+189	0	3	Bourke, Mr. John	m	40.0	1	1	364849	155		Q	Titanic
+190	0	3	Turcin, Mr. Stjepan	m	36.0	0	0	349247	78958		S	Titanic
+191	1	2	Pinsky, Mrs. (Rosa)	f	32.0	0	0	234604	13		S	Titanic
+192	0	2	Carbines, Mr. William	m	19.0	0	0	28424	13		S	Titanic
+193	1	3	Andersen-Jensen, Miss. Carla Christine Nielsine	f	19.0	1	0	350046	78542		S	Titanic
+194	1	2	Navratil, Master. Michel M	m	3.0	1	1	230080	26	F2	S	Titanic
+195	1	1	Brown, Mrs. James Joseph (Margaret Tobin)	f	44.0	0	0	PC 17610	277208	B4	C	Titanic
+196	1	1	Lurette, Miss. Elise	f	58.0	0	0	PC 17569	1465208	B80	C	Titanic
+197	0	3	Mernagh, Mr. Robert	m	35.929165507649515	0	0	368703	775		Q	Titanic
+198	0	3	Olsen, Mr. Karl Siegwart Andreas	m	42.0	0	1	4579	84042		S	Titanic
+199	1	3	"Madigan, Miss. Margaret ""Maggie"""	f	35.929165507649515	0	0	370370	775		Q	Titanic
+200	0	2	"Yrois, Miss. Henriette (""Mrs Harbeck"")"	f	24.0	0	0	248747	13		S	Titanic
+201	0	3	Vande Walle, Mr. Nestor Cyriel	m	28.0	0	0	345770	95		S	Titanic
+202	0	3	Sage, Mr. Frederick	m	35.929165507649515	8	2	CA. 2343	6955		S	Titanic
+203	0	3	Johanson, Mr. Jakob Alfred	m	34.0	0	0	3101264	64958		S	Titanic
+204	0	3	Youseff, Mr. Gerious	m	45.5	0	0	2628	7225		C	Titanic
+205	1	3	"Cohen, Mr. Gurshon ""Gus"""	m	18.0	0	0	A/5 3540	805		S	Titanic
+206	0	3	Strom, Miss. Telma Matilda	f	2.0	0	1	347054	104625	G6	S	Titanic
+207	0	3	Backstrom, Mr. Karl Alfred	m	32.0	1	0	3101278	1585		S	Titanic
+208	1	3	Albimona, Mr. Nassef Cassem	m	26.0	0	0	2699	187875		C	Titanic
+209	1	3	"Carr, Miss. Helen ""Ellen"""	f	16.0	0	0	367231	775		Q	Titanic
+210	1	1	Blank, Mr. Henry	m	40.0	0	0	112277	31	A31	C	Titanic
+211	0	3	Ali, Mr. Ahmed	m	24.0	0	0	SOTON/O.Q. 3101311	705		S	Titanic
+212	1	2	Cameron, Miss. Clear Annie	f	35.0	0	0	F.C.C. 13528	21		S	Titanic
+213	0	3	Perkin, Mr. John Henry	m	22.0	0	0	A/5 21174	725		S	Titanic
+214	0	2	Givard, Mr. Hans Kristensen	m	30.0	0	0	250646	13		S	Titanic
+215	0	3	Kiernan, Mr. Philip	m	35.929165507649515	1	0	367229	775		Q	Titanic
+216	1	1	Newell, Miss. Madeleine	f	31.0	1	0	35273	113275	D36	C	Titanic
+217	1	3	Honkanen, Miss. Eliina	f	27.0	0	0	STON/O2. 3101283	7925		S	Titanic
+218	0	2	Jacobsohn, Mr. Sidney Samuel	m	42.0	1	0	243847	27		S	Titanic
+219	1	1	Bazzani, Miss. Albina	f	32.0	0	0	11813	762917	D15	C	Titanic
+220	0	2	Harris, Mr. Walter	m	30.0	0	0	W/C 14208	105		S	Titanic
+221	1	3	Sunderland, Mr. Victor Francis	m	16.0	0	0	SOTON/OQ 392089	805		S	Titanic
+222	0	2	Bracken, Mr. James H	m	27.0	0	0	220367	13		S	Titanic
+223	0	3	Green, Mr. George Henry	m	51.0	0	0	21440	805		S	Titanic
+224	0	3	Nenkoff, Mr. Christo	m	4435.0	0	0	349234	78958		S	Titanic
+225	1	1	Hoyt, Mr. Frederick Maxfield	m	38.0	1	0	19943	90	C93	S	Titanic
+226	0	3	Berglund, Mr. Karl Ivar Sven	m	22.0	0	0	PP 4348	935		S	Titanic
+227	1	2	Mellors, Mr. William John	m	19.0	0	0	SW/PP 751	105		S	Titanic
+228	0	3	"Lovell, Mr. John Hall (""Henry"")"	m	20.5	0	0	A/5 21173	725		S	Titanic
+229	0	2	Fahlstrom, Mr. Arne Jonas	m	18.0	0	0	236171	13		S	Titanic
+230	0	3	Lefebre, Miss. Mathilde	f	35.929165507649515	3	1	4133	254667		S	Titanic
+231	1	1	Harris, Mrs. Henry Birkhardt (Irene Wallach)	f	35.0	1	0	36973	83475	C83	S	Titanic
+232	0	3	Larsson, Mr. Bengt Edvin	m	29.0	0	0	347067	7775		S	Titanic
+233	0	2	Sjostedt, Mr. Ernst Adolf	m	59.0	0	0	237442	135		S	Titanic
+234	1	3	Asplund, Miss. Lillian Gertrud	f	5.0	4	2	347077	313875		S	Titanic
+235	0	2	Leyson, Mr. Robert William Norman	m	24.0	0	0	C.A. 29566	105		S	Titanic
+236	0	3	Harknett, Miss. Alice Phoebe	f	35.929165507649515	0	0	W./C. 6609	755		S	Titanic
+237	0	2	Hold, Mr. Stephen	m	44.0	1	0	26707	26		S	Titanic
+238	1	2	"Collyer, Miss. Marjorie ""Lottie"""	f	8.0	0	2	C.A. 31921	2625		S	Titanic
+239	0	2	Pengelly, Mr. Frederick William	m	19.0	0	0	28665	105		S	Titanic
+240	0	2	Hunt, Mr. George Henry	m	33.0	0	0	SCO/W 1585	12275		S	Titanic
+241	0	3	Zabour, Miss. Thamine	f	35.929165507649515	1	0	2665	144542		C	Titanic
+242	1	3	"Murphy, Miss. Katherine ""Kate"""	f	35.929165507649515	1	0	367230	155		Q	Titanic
+243	0	2	Coleridge, Mr. Reginald Charles	m	29.0	0	0	W./C. 14263	105		S	Titanic
+244	0	3	Maenpaa, Mr. Matti Alexanteri	m	22.0	0	0	STON/O 2. 3101275	7125		S	Titanic
+245	0	3	Attalah, Mr. Sleiman	m	30.0	0	0	2694	7225		C	Titanic
+246	0	1	Minahan, Dr. William Edward	m	44.0	2	0	19928	90	C78	Q	Titanic
+247	0	3	Lindahl, Miss. Agda Thorilda Viktoria	f	25.0	0	0	347071	7775		S	Titanic
+248	1	2	Hamalainen, Mrs. William (Anna)	f	24.0	0	2	250649	145		S	Titanic
+249	1	1	Beckwith, Mr. Richard Leonard	m	37.0	1	1	11751	525542	D35	S	Titanic
+250	0	2	Carter, Rev. Ernest Courtenay	m	54.0	1	0	244252	26		S	Titanic
+251	0	3	Reed, Mr. James George	m	35.929165507649515	0	0	362316	725		S	Titanic
+252	0	3	Strom, Mrs. Wilhelm (Elna Matilda Persson)	f	29.0	1	1	347054	104625	G6	S	Titanic
+253	0	1	Stead, Mr. William Thomas	m	62.0	0	0	113514	2655	C87	S	Titanic
+254	0	3	Lobb, Mr. William Arthur	m	30.0	1	0	A/5. 3336	161		S	Titanic
+255	0	3	Rosblom, Mrs. Viktor (Helena Wilhelmina)	f	41.0	0	2	370129	202125		S	Titanic
+256	1	3	Touma, Mrs. Darwis (Hanne Youssef Razi)	f	29.0	0	2	2650	152458		C	Titanic
+257	1	1	Thorne, Mrs. Gertrude Maybelle	f	35.929165507649515	0	0	PC 17585	792		C	Titanic
+258	1	1	Cherry, Miss. Gladys	f	30.0	0	0	110152	865	B77	S	Titanic
+259	1	1	Ward, Miss. Anna	f	35.0	0	0	PC 17755	5123292		C	Titanic
+260	1	2	Parrish, Mrs. (Lutie Davis)	f	50.0	0	1	230433	26		S	Titanic
+261	0	3	Smith, Mr. Thomas	m	35.929165507649515	0	0	384461	775		Q	Titanic
+262	1	3	Asplund, Master. Edvin Rojj Felix	m	3.0	4	2	347077	313875		S	Titanic
+263	0	1	Taussig, Mr. Emil	m	52.0	1	1	110413	7965	E67	S	Titanic
+264	0	1	Harrison, Mr. William	m	40.0	0	0	112059	0	B94	S	Titanic
+265	0	3	Henry, Miss. Delia	f	35.929165507649515	0	0	382649	775		Q	Titanic
+266	0	2	Reeves, Mr. David	m	36.0	0	0	C.A. 17248	105		S	Titanic
+267	0	3	Panula, Mr. Ernesti Arvid	m	16.0	4	1	3101295	396875		S	Titanic
+268	1	3	Persson, Mr. Ernst Ulrik	m	25.0	1	0	347083	7775		S	Titanic
+269	1	1	Graham, Mrs. William Thompson (Edith Junkins)	f	58.0	0	1	PC 17582	1534625	C125	S	Titanic
+270	1	1	Bissette, Miss. Amelia	f	35.0	0	0	PC 17760	1356333	C99	S	Titanic
+271	0	1	Cairns, Mr. Alexander	m	35.929165507649515	0	0	113798	31		S	Titanic
+272	1	3	Tornquist, Mr. William Henry	m	25.0	0	0	LINE	0		S	Titanic
+273	1	2	Mellinger, Mrs. (Elizabeth Anne Maidment)	f	41.0	0	1	250644	195		S	Titanic
+274	0	1	Natsch, Mr. Charles H	m	37.0	0	1	PC 17596	297	C118	C	Titanic
+275	1	3	"Healy, Miss. Hanora ""Nora"""	f	35.929165507649515	0	0	370375	775		Q	Titanic
+276	1	1	Andrews, Miss. Kornelia Theodosia	f	63.0	1	0	13502	779583	D7	S	Titanic
+277	0	3	Lindblom, Miss. Augusta Charlotta	f	45.0	0	0	347073	775		S	Titanic
+278	0	2	"Parkes, Mr. Francis ""Frank"""	m	35.929165507649515	0	0	239853	0		S	Titanic
+279	0	3	Rice, Master. Eric	m	7.0	4	1	382652	29125		Q	Titanic
+280	1	3	Abbott, Mrs. Stanton (Rosa Hunt)	f	35.0	1	1	C.A. 2673	2025		S	Titanic
+281	0	3	Duane, Mr. Frank	m	65.0	0	0	336439	775		Q	Titanic
+282	0	3	Olsson, Mr. Nils Johan Goransson	m	28.0	0	0	347464	78542		S	Titanic
+283	0	3	de Pelsmaeker, Mr. Alfons	m	16.0	0	0	345778	95		S	Titanic
+284	1	3	Dorking, Mr. Edward Arthur	m	19.0	0	0	A/5. 10482	805		S	Titanic
+285	0	1	Smith, Mr. Richard William	m	35.929165507649515	0	0	113056	26	A19	S	Titanic
+286	0	3	Stankovic, Mr. Ivan	m	33.0	0	0	349239	86625		C	Titanic
+287	1	3	de Mulder, Mr. Theodore	m	30.0	0	0	345774	95		S	Titanic
+288	0	3	Naidenoff, Mr. Penko	m	22.0	0	0	349206	78958		S	Titanic
+289	1	2	Hosono, Mr. Masabumi	m	42.0	0	0	237798	13		S	Titanic
+290	1	3	Connolly, Miss. Kate	f	22.0	0	0	370373	775		Q	Titanic
+291	1	1	"Barber, Miss. Ellen ""Nellie"""	f	26.0	0	0	19877	7885		S	Titanic
+292	1	1	Bishop, Mrs. Dickinson H (Helen Walton)	f	19.0	1	0	11967	910792	B49	C	Titanic
+293	0	2	Levy, Mr. Rene Jacques	m	36.0	0	0	SC/Paris 2163	12875	D	C	Titanic
+294	0	3	Haas, Miss. Aloisia	f	24.0	0	0	349236	885		S	Titanic
+295	0	3	Mineff, Mr. Ivan	m	24.0	0	0	349233	78958		S	Titanic
+296	0	1	Lewy, Mr. Ervin G	m	35.929165507649515	0	0	PC 17612	277208		C	Titanic
+297	0	3	Hanna, Mr. Mansour	m	23.5	0	0	2693	72292		C	Titanic
+298	0	1	Allison, Miss. Helen Loraine	f	2.0	1	2	113781	15155	C22 C26	S	Titanic
+299	1	1	Saalfeld, Mr. Adolphe	m	35.929165507649515	0	0	19988	305	C106	S	Titanic
+300	1	1	Baxter, Mrs. James (Helene DeLaudeniere Chaput)	f	50.0	0	1	PC 17558	2475208	B58 B60	C	Titanic
+301	1	3	"Kelly, Miss. Anna Katherine ""Annie Kate"""	f	35.929165507649515	0	0	9234	775		Q	Titanic
+302	1	3	McCoy, Mr. Bernard	m	35.929165507649515	2	0	367226	2325		Q	Titanic
+303	0	3	Johnson, Mr. William Cahoone Jr	m	19.0	0	0	LINE	0		S	Titanic
+304	1	2	Keane, Miss. Nora A	f	35.929165507649515	0	0	226593	1235	E101	Q	Titanic
+305	0	3	"Williams, Mr. Howard Hugh ""Harry"""	m	35.929165507649515	0	0	A/5 2466	805		S	Titanic
+306	1	1	Allison, Master. Hudson Trevor	m	0.92	1	2	113781	15155	C22 C26	S	Titanic
+307	1	1	Fleming, Miss. Margaret	f	35.929165507649515	0	0	17421	1108833		C	Titanic
+308	1	1	Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)	f	17.0	1	0	PC 17758	1089	C65	C	Titanic
+309	0	2	Abelson, Mr. Samuel	m	30.0	1	0	P/PP 3381	24		C	Titanic
+310	1	1	Francatelli, Miss. Laura Mabel	f	30.0	0	0	PC 17485	569292	E36	C	Titanic
+311	1	1	Hays, Miss. Margaret Bechstein	f	24.0	0	0	11767	831583	C54	C	Titanic
+312	1	1	Ryerson, Miss. Emily Borie	f	18.0	2	2	PC 17608	262375	B57 B59 B63 B66	C	Titanic
+313	0	2	Lahtinen, Mrs. William (Anna Sylfven)	f	26.0	1	1	250651	26		S	Titanic
+314	0	3	Hendekovic, Mr. Ignjac	m	28.0	0	0	349243	78958		S	Titanic
+315	0	2	Hart, Mr. Benjamin	m	43.0	1	1	F.C.C. 13529	2625		S	Titanic
+316	1	3	Nilsson, Miss. Helmina Josefina	f	26.0	0	0	347470	78542		S	Titanic
+317	1	2	Kantor, Mrs. Sinai (Miriam Sternin)	f	24.0	1	0	244367	26		S	Titanic
+318	0	2	Moraweck, Dr. Ernest	m	54.0	0	0	29011	14		S	Titanic
+319	1	1	Wick, Miss. Mary Natalie	f	31.0	0	2	36928	1648667	C7	S	Titanic
+320	1	1	Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)	f	40.0	1	1	16966	1345	E34	C	Titanic
+321	0	3	Dennis, Mr. Samuel	m	22.0	0	0	A/5 21172	725		S	Titanic
+322	0	3	Danoff, Mr. Yoto	m	27.0	0	0	349219	78958		S	Titanic
+323	1	2	Slayter, Miss. Hilda Mary	f	30.0	0	0	234818	1235		Q	Titanic
+324	1	2	Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)	f	22.0	1	1	248738	29		S	Titanic
+325	0	3	Sage, Mr. George John Jr	m	35.929165507649515	8	2	CA. 2343	6955		S	Titanic
+326	1	1	Young, Miss. Marie Grice	f	36.0	0	0	PC 17760	1356333	C32	C	Titanic
+327	0	3	Nysveen, Mr. Johan Hansen	m	61.0	0	0	345364	62375		S	Titanic
+328	1	2	Ball, Mrs. (Ada E Hall)	f	36.0	0	0	28551	13	D	S	Titanic
+329	1	3	Goldsmith, Mrs. Frank John (Emily Alice Brown)	f	31.0	1	1	363291	20525		S	Titanic
+330	1	1	Hippach, Miss. Jean Gertrude	f	16.0	0	1	111361	579792	B18	C	Titanic
+331	1	3	McCoy, Miss. Agnes	f	35.929165507649515	2	0	367226	2325		Q	Titanic
+332	0	1	Partner, Mr. Austen	m	45.5	0	0	113043	285	C124	S	Titanic
+333	0	1	Graham, Mr. George Edward	m	38.0	0	1	PC 17582	1534625	C91	S	Titanic
+334	0	3	Vander Planke, Mr. Leo Edmondus	m	16.0	2	0	345764	18		S	Titanic
+335	1	1	Frauenthal, Mrs. Henry William (Clara Heinsheimer)	f	35.929165507649515	1	0	PC 17611	13365		S	Titanic
+336	0	3	Denkoff, Mr. Mitto	m	35.929165507649515	0	0	349225	78958		S	Titanic
+337	0	1	Pears, Mr. Thomas Clinton	m	29.0	1	0	113776	666	C2	S	Titanic
+338	1	1	Burns, Miss. Elizabeth Margaret	f	41.0	0	0	16966	1345	E40	C	Titanic
+339	1	3	Dahl, Mr. Karl Edwart	m	45.0	0	0	7598	805		S	Titanic
+340	0	1	Blackwell, Mr. Stephen Weart	m	45.0	0	0	113784	355	T	S	Titanic
+341	1	2	Navratil, Master. Edmond Roger	m	2.0	1	1	230080	26	F2	S	Titanic
+342	1	1	Fortune, Miss. Alice Elizabeth	f	24.0	3	2	19950	263	C23 C25 C27	S	Titanic
+343	0	2	Collander, Mr. Erik Gustaf	m	28.0	0	0	248740	13		S	Titanic
+344	0	2	Sedgwick, Mr. Charles Frederick Waddington	m	25.0	0	0	244361	13		S	Titanic
+345	0	2	Fox, Mr. Stanley Hubert	m	36.0	0	0	229236	13		S	Titanic
+346	1	2	"Brown, Miss. Amelia ""Mildred"""	f	24.0	0	0	248733	13	F33	S	Titanic
+347	1	2	Smith, Miss. Marion Elsie	f	40.0	0	0	31418	13		S	Titanic
+348	1	3	Davison, Mrs. Thomas Henry (Mary E Finck)	f	35.929165507649515	1	0	386525	161		S	Titanic
+349	1	3	"Coutts, Master. William Loch ""William"""	m	3.0	1	1	C.A. 37671	159		S	Titanic
+350	0	3	Dimic, Mr. Jovan	m	42.0	0	0	315088	86625		S	Titanic
+351	0	3	Odahl, Mr. Nils Martin	m	23.0	0	0	7267	9225		S	Titanic
+352	0	1	Williams-Lambert, Mr. Fletcher Fellows	m	35.929165507649515	0	0	113510	35	C128	S	Titanic
+353	0	3	Elias, Mr. Tannous	m	15.0	1	1	2695	72292		C	Titanic
+354	0	3	Arnold-Franchi, Mr. Josef	m	25.0	1	0	349237	178		S	Titanic
+355	0	3	Yousif, Mr. Wazli	m	35.929165507649515	0	0	2647	7225		C	Titanic
+356	0	3	Vanden Steen, Mr. Leo Peter	m	28.0	0	0	345783	95		S	Titanic
+357	1	1	Bowerman, Miss. Elsie Edith	f	22.0	0	1	113505	55	E33	S	Titanic
+358	0	2	Funk, Miss. Annie Clemmer	f	38.0	0	0	237671	13		S	Titanic
+359	1	3	McGovern, Miss. Mary	f	35.929165507649515	0	0	330931	78792		Q	Titanic
+360	1	3	"Mockler, Miss. Helen Mary ""Ellie"""	f	35.929165507649515	0	0	330980	78792		Q	Titanic
+361	0	3	Skoog, Mr. Wilhelm	m	40.0	1	4	347088	279		S	Titanic
+362	0	2	del Carlo, Mr. Sebastiano	m	29.0	1	0	SC/PARIS 2167	277208		C	Titanic
+363	0	3	Barbara, Mrs. (Catherine David)	f	45.0	0	1	2691	144542		C	Titanic
+364	0	3	Asim, Mr. Adola	m	35.0	0	0	SOTON/O.Q. 3101310	705		S	Titanic
+365	0	3	O'Brien, Mr. Thomas	m	35.929165507649515	1	0	370365	155		Q	Titanic
+366	0	3	Adahl, Mr. Mauritz Nils Martin	m	30.0	0	0	C 7076	725		S	Titanic
+367	1	1	Warren, Mrs. Frank Manley (Anna Sophia Atkinson)	f	60.0	1	0	110813	7525	D37	C	Titanic
+368	1	3	Moussa, Mrs. (Mantoura Boulos)	f	35.929165507649515	0	0	2626	72292		C	Titanic
+369	1	3	Jermyn, Miss. Annie	f	35.929165507649515	0	0	14313	775		Q	Titanic
+370	1	1	Aubart, Mme. Leontine Pauline	f	24.0	0	0	PC 17477	693	B35	C	Titanic
+371	1	1	Harder, Mr. George Achilles	m	25.0	1	0	11765	554417	E50	C	Titanic
+372	0	3	Wiklund, Mr. Jakob Alfred	m	18.0	1	0	3101267	64958		S	Titanic
+373	0	3	Beavan, Mr. William Thomas	m	19.0	0	0	323951	805		S	Titanic
+374	0	1	Ringhini, Mr. Sante	m	22.0	0	0	PC 17760	1356333		C	Titanic
+375	0	3	Palsson, Miss. Stina Viola	f	3.0	3	1	349909	21075		S	Titanic
+376	1	1	Meyer, Mrs. Edgar Joseph (Leila Saks)	f	35.929165507649515	1	0	PC 17604	821708		C	Titanic
+377	1	3	Landergren, Miss. Aurora Adelia	f	22.0	0	0	C 7077	725		S	Titanic
+378	0	1	Widener, Mr. Harry Elkins	m	27.0	0	2	113503	2115	C82	C	Titanic
+379	0	3	Betros, Mr. Tannous	m	20.0	0	0	2648	40125		C	Titanic
+380	0	3	Gustafsson, Mr. Karl Gideon	m	19.0	0	0	347069	7775		S	Titanic
+381	1	1	Bidois, Miss. Rosalie	f	42.0	0	0	PC 17757	227525		C	Titanic
+382	1	3	"Nakid, Miss. Maria (""Mary"")"	f	1.0	0	2	2653	157417		C	Titanic
+383	0	3	Tikkanen, Mr. Juho	m	32.0	0	0	STON/O 2. 3101293	7925		S	Titanic
+384	1	1	Holverson, Mrs. Alexander Oskar (Mary Aline Towner)	f	35.0	1	0	113789	52		S	Titanic
+385	0	3	Plotcharsky, Mr. Vasil	m	35.929165507649515	0	0	349227	78958		S	Titanic
+386	0	2	Davies, Mr. Charles Henry	m	18.0	0	0	S.O.C. 14879	735		S	Titanic
+387	0	3	Goodwin, Master. Sidney Leonard	m	1.0	5	2	CA 2144	469		S	Titanic
+388	1	2	Buss, Miss. Kate	f	36.0	0	0	27849	13		S	Titanic
+389	0	3	Sadlier, Mr. Matthew	m	35.929165507649515	0	0	367655	77292		Q	Titanic
+390	1	2	Lehmann, Miss. Bertha	f	17.0	0	0	SC 1748	12		C	Titanic
+391	1	1	Carter, Mr. William Ernest	m	36.0	1	2	113760	120	B96 B98	S	Titanic
+392	1	3	Jansson, Mr. Carl Olof	m	21.0	0	0	350034	77958		S	Titanic
+393	0	3	Gustafsson, Mr. Johan Birger	m	28.0	2	0	3101277	7925		S	Titanic
+394	1	1	Newell, Miss. Marjorie	f	23.0	1	0	35273	113275	D36	C	Titanic
+395	1	3	Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)	f	24.0	0	2	PP 9549	167	G6	S	Titanic
+396	0	3	Johansson, Mr. Erik	m	22.0	0	0	350052	77958		S	Titanic
+397	0	3	Olsson, Miss. Elina	f	31.0	0	0	350407	78542		S	Titanic
+398	0	2	McKane, Mr. Peter David	m	46.0	0	0	28403	26		S	Titanic
+399	0	2	Pain, Dr. Alfred	m	23.0	0	0	244278	105		S	Titanic
+400	1	2	Trout, Mrs. William H (Jessie L)	f	28.0	0	0	240929	1265		S	Titanic
+401	1	3	Niskanen, Mr. Juha	m	39.0	0	0	STON/O 2. 3101289	7925		S	Titanic
+402	0	3	Adams, Mr. John	m	26.0	0	0	341826	805		S	Titanic
+403	0	3	Jussila, Miss. Mari Aina	f	21.0	1	0	4137	9825		S	Titanic
+404	0	3	Hakkarainen, Mr. Pekka Pietari	m	28.0	1	0	STON/O2. 3101279	1585		S	Titanic
+405	0	3	Oreskovic, Miss. Marija	f	20.0	0	0	315096	86625		S	Titanic
+406	0	2	Gale, Mr. Shadrach	m	34.0	1	0	28664	21		S	Titanic
+407	0	3	Widegren, Mr. Carl/Charles Peter	m	51.0	0	0	347064	775		S	Titanic
+408	1	2	Richards, Master. William Rowe	m	3.0	1	1	29106	1875		S	Titanic
+409	0	3	Birkeland, Mr. Hans Martin Monsen	m	21.0	0	0	312992	7775		S	Titanic
+410	0	3	Lefebre, Miss. Ida	f	35.929165507649515	3	1	4133	254667		S	Titanic
+411	0	3	Sdycoff, Mr. Todor	m	35.929165507649515	0	0	349222	78958		S	Titanic
+412	0	3	Hart, Mr. Henry	m	35.929165507649515	0	0	394140	68583		Q	Titanic
+413	1	1	Minahan, Miss. Daisy E	f	33.0	1	0	19928	90	C78	Q	Titanic
+414	0	2	Cunningham, Mr. Alfred Fleming	m	35.929165507649515	0	0	239853	0		S	Titanic
+415	1	3	Sundman, Mr. Johan Julian	m	44.0	0	0	STON/O 2. 3101269	7925		S	Titanic
+416	0	3	Meek, Mrs. Thomas (Annie Louise Rowley)	f	35.929165507649515	0	0	343095	805		S	Titanic
+417	1	2	Drew, Mrs. James Vivian (Lulu Thorne Christian)	f	34.0	1	1	28220	325		S	Titanic
+418	1	2	Silven, Miss. Lyyli Karoliina	f	18.0	0	2	250652	13		S	Titanic
+419	0	2	Matthews, Mr. William John	m	30.0	0	0	28228	13		S	Titanic
+420	0	3	Van Impe, Miss. Catharina	f	10.0	0	2	345773	2415		S	Titanic
+421	0	3	Gheorgheff, Mr. Stanio	m	35.929165507649515	0	0	349254	78958		C	Titanic
+422	0	3	Charters, Mr. David	m	21.0	0	0	A/5. 13032	77333		Q	Titanic
+423	0	3	Zimmerman, Mr. Leo	m	29.0	0	0	315082	7875		S	Titanic
+424	0	3	Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)	f	28.0	1	1	347080	144		S	Titanic
+425	0	3	Rosblom, Mr. Viktor Richard	m	18.0	1	1	370129	202125		S	Titanic
+426	0	3	Wiseman, Mr. Phillippe	m	35.929165507649515	0	0	A/4. 34244	725		S	Titanic
+427	1	2	Clarke, Mrs. Charles V (Ada Maria Winfield)	f	28.0	1	0	2003	26		S	Titanic
+428	1	2	"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")"	f	19.0	0	0	250655	26		S	Titanic
+429	0	3	Flynn, Mr. James	m	35.929165507649515	0	0	364851	775		Q	Titanic
+430	1	3	Pickard, Mr. Berk (Berk Trembisky)	m	32.0	0	0	SOTON/O.Q. 392078	805	E10	S	Titanic
+431	1	1	Bjornstrom-Steffansson, Mr. Mauritz Hakan	m	28.0	0	0	110564	2655	C52	S	Titanic
+432	1	3	Thorneycroft, Mrs. Percival (Florence Kate White)	f	35.929165507649515	1	0	376564	161		S	Titanic
+433	1	2	Louch, Mrs. Charles Alexander (Alice Adelaide Slow)	f	42.0	1	0	SC/AH 3085	26		S	Titanic
+434	0	3	Kallio, Mr. Nikolai Erland	m	17.0	0	0	STON/O 2. 3101274	7125		S	Titanic
+435	0	1	Silvey, Mr. William Baird	m	50.0	1	0	13507	559	E44	S	Titanic
+436	1	1	Carter, Miss. Lucile Polk	f	14.0	1	2	113760	120	B96 B98	S	Titanic
+437	0	3	"Ford, Miss. Doolina Margaret ""Daisy"""	f	21.0	2	2	W./C. 6608	34375		S	Titanic
+438	1	2	Richards, Mrs. Sidney (Emily Hocking)	f	24.0	2	3	29106	1875		S	Titanic
+439	0	1	Fortune, Mr. Mark	m	64.0	1	4	19950	263	C23 C25 C27	S	Titanic
+440	0	2	Kvillner, Mr. Johan Henrik Johannesson	m	31.0	0	0	C.A. 18723	105		S	Titanic
+441	1	2	Hart, Mrs. Benjamin (Esther Ada Bloomfield)	f	45.0	1	1	F.C.C. 13529	2625		S	Titanic
+442	0	3	Hampe, Mr. Leon	m	20.0	0	0	345769	95		S	Titanic
+443	0	3	Petterson, Mr. Johan Emil	m	25.0	1	0	347076	7775		S	Titanic
+444	1	2	Reynaldo, Ms. Encarnacion	f	28.0	0	0	230434	13		S	Titanic
+445	1	3	Johannesen-Bratthammer, Mr. Bernt	m	35.929165507649515	0	0	65306	81125		S	Titanic
+446	1	1	Dodge, Master. Washington	m	4.0	0	2	33638	818583	A34	S	Titanic
+447	1	2	Mellinger, Miss. Madeleine Violet	f	13.0	0	1	250644	195		S	Titanic
+448	1	1	Seward, Mr. Frederic Kimber	m	34.0	0	0	113794	2655		S	Titanic
+449	1	3	Baclini, Miss. Marie Catherine	f	5.0	2	1	2666	192583		C	Titanic
+450	1	1	Peuchen, Major. Arthur Godfrey	m	52.0	0	0	113786	305	C104	S	Titanic
+451	0	2	West, Mr. Edwy Arthur	m	36.0	1	2	C.A. 34651	2775		S	Titanic
+452	0	3	Hagland, Mr. Ingvald Olai Olsen	m	35.929165507649515	1	0	65303	199667		S	Titanic
+453	0	1	Foreman, Mr. Benjamin Laventall	m	30.0	0	0	113051	2775	C111	C	Titanic
+454	1	1	Goldenberg, Mr. Samuel L	m	49.0	1	0	17453	891042	C92	C	Titanic
+455	0	3	Peduzzi, Mr. Joseph	m	35.929165507649515	0	0	A/5 2817	805		S	Titanic
+456	1	3	Jalsevac, Mr. Ivan	m	29.0	0	0	349240	78958		C	Titanic
+457	0	1	Millet, Mr. Francis Davis	m	65.0	0	0	13509	2655	E38	S	Titanic
+458	1	1	Kenyon, Mrs. Frederick R (Marion)	f	35.929165507649515	1	0	17464	518625	D21	S	Titanic
+459	1	2	Toomey, Miss. Ellen	f	50.0	0	0	F.C.C. 13531	105		S	Titanic
+460	0	3	O'Connor, Mr. Maurice	m	35.929165507649515	0	0	371060	775		Q	Titanic
+461	1	1	Anderson, Mr. Harry	m	48.0	0	0	19952	2655	E12	S	Titanic
+462	0	3	Morley, Mr. William	m	34.0	0	0	364506	805		S	Titanic
+463	0	1	Gee, Mr. Arthur H	m	47.0	0	0	111320	385	E63	S	Titanic
+464	0	2	Milling, Mr. Jacob Christian	m	48.0	0	0	234360	13		S	Titanic
+465	0	3	Maisner, Mr. Simon	m	35.929165507649515	0	0	A/S 2816	805		S	Titanic
+466	0	3	Goncalves, Mr. Manuel Estanslas	m	38.0	0	0	SOTON/O.Q. 3101306	705		S	Titanic
+467	0	2	Campbell, Mr. William	m	35.929165507649515	0	0	239853	0		S	Titanic
+468	0	1	Smart, Mr. John Montgomery	m	56.0	0	0	113792	2655		S	Titanic
+469	0	3	Scanlan, Mr. James	m	35.929165507649515	0	0	36209	7725		Q	Titanic
+470	1	3	Baclini, Miss. Helene Barbara	f	0.75	2	1	2666	192583		C	Titanic
+471	0	3	Keefe, Mr. Arthur	m	35.929165507649515	0	0	323592	725		S	Titanic
+472	0	3	Cacic, Mr. Luka	m	38.0	0	0	315089	86625		S	Titanic
+473	1	2	West, Mrs. Edwy Arthur (Ada Mary Worth)	f	33.0	1	2	C.A. 34651	2775		S	Titanic
+474	1	2	Jerwan, Mrs. Amin S (Marie Marthe Thuillard)	f	23.0	0	0	SC/AH Basle 541	137917	D	C	Titanic
+475	0	3	Strandberg, Miss. Ida Sofia	f	22.0	0	0	7553	98375		S	Titanic
+476	0	1	Clifford, Mr. George Quincy	m	35.929165507649515	0	0	110465	52	A14	S	Titanic
+477	0	2	Renouf, Mr. Peter Henry	m	34.0	1	0	31027	21		S	Titanic
+478	0	3	Braund, Mr. Lewis Richard	m	29.0	1	0	3460	70458		S	Titanic
+479	0	3	Karlsson, Mr. Nils August	m	22.0	0	0	350060	75208		S	Titanic
+480	1	3	Hirvonen, Miss. Hildur E	f	2.0	0	1	3101298	122875		S	Titanic
+481	0	3	Goodwin, Master. Harold Victor	m	9.0	5	2	CA 2144	469		S	Titanic
+482	0	2	"Frost, Mr. Anthony Wood ""Archie"""	m	35.929165507649515	0	0	239854	0		S	Titanic
+483	0	3	Rouse, Mr. Richard Henry	m	50.0	0	0	A/5 3594	805		S	Titanic
+484	1	3	Turkula, Mrs. (Hedwig)	f	63.0	0	0	4134	95875		S	Titanic
+485	1	1	Bishop, Mr. Dickinson H	m	25.0	1	0	11967	910792	B49	C	Titanic
+486	0	3	Lefebre, Miss. Jeannie	f	35.929165507649515	3	1	4133	254667		S	Titanic
+487	1	1	Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)	f	35.0	1	0	19943	90	C93	S	Titanic
+488	0	1	Kent, Mr. Edward Austin	m	58.0	0	0	11771	297	B37	C	Titanic
+489	0	3	Somerton, Mr. Francis William	m	30.0	0	0	A.5. 18509	805		S	Titanic
+490	1	3	"Coutts, Master. Eden Leslie ""Neville"""	m	9.0	1	1	C.A. 37671	159		S	Titanic
+491	0	3	Hagland, Mr. Konrad Mathias Reiersen	m	35.929165507649515	1	0	65304	199667		S	Titanic
+492	0	3	Windelov, Mr. Einar	m	21.0	0	0	SOTON/OQ 3101317	725		S	Titanic
+493	0	1	Molson, Mr. Harry Markland	m	55.0	0	0	113787	305	C30	S	Titanic
+494	0	1	Artagaveytia, Mr. Ramon	m	71.0	0	0	PC 17609	495042		C	Titanic
+495	0	3	Stanley, Mr. Edward Roland	m	21.0	0	0	A/4 45380	805		S	Titanic
+496	0	3	Yousseff, Mr. Gerious	m	35.929165507649515	0	0	2627	144583		C	Titanic
+497	1	1	Eustis, Miss. Elizabeth Mussey	f	54.0	1	0	36947	782667	D20	C	Titanic
+498	0	3	Shellard, Mr. Frederick William	m	35.929165507649515	0	0	C.A. 6212	151		S	Titanic
+499	0	1	Allison, Mrs. Hudson J C (Bessie Waldo Daniels)	f	25.0	1	2	113781	15155	C22 C26	S	Titanic
+500	0	3	Svensson, Mr. Olof	m	24.0	0	0	350035	77958		S	Titanic
+501	0	3	Calic, Mr. Petar	m	17.0	0	0	315086	86625		S	Titanic
+502	0	3	Canavan, Miss. Mary	f	21.0	0	0	364846	775		Q	Titanic
+503	0	3	O'Sullivan, Miss. Bridget Mary	f	35.929165507649515	0	0	330909	76292		Q	Titanic
+504	0	3	Laitinen, Miss. Kristina Sofia	f	37.0	0	0	4135	95875		S	Titanic
+505	1	1	Maioni, Miss. Roberta	f	16.0	0	0	110152	865	B79	S	Titanic
+506	0	1	Penasco y Castellana, Mr. Victor de Satode	m	18.0	1	0	PC 17758	1089	C65	C	Titanic
+507	1	2	Quick, Mrs. Frederick Charles (Jane Richards)	f	33.0	0	2	26360	26		S	Titanic
+508	1	1	"Bradley, Mr. George (""George Arthur Brayton"")"	m	-3.0	0	0	111427	2655		S	Titanic
+509	0	3	Olsen, Mr. Henry Margido	m	28.0	0	0	C 4001	22525		S	Titanic
+510	1	3	Lang, Mr. Fang	m	26.0	0	0	1601	564958		S	Titanic
+511	1	3	Daly, Mr. Eugene Patrick	m	29.0	0	0	382651	775		Q	Titanic
+512	0	3	Webber, Mr. James	m	35.929165507649515	0	0	SOTON/OQ 3101316	805		S	Titanic
+513	1	1	McGough, Mr. James Robert	m	36.0	0	0	PC 17473	262875	E25	S	Titanic
+514	1	1	Rothschild, Mrs. Martin (Elizabeth L. Barrett)	f	54.0	1	0	PC 17603	594		C	Titanic
+515	0	3	Coleff, Mr. Satio	m	24.0	0	0	349209	74958		S	Titanic
+516	0	1	Walker, Mr. William Anderson	m	47.0	0	0	36967	340208	D46	S	Titanic
+517	1	2	Lemore, Mrs. (Amelia Milley)	f	34.0	0	0	C.A. 34260	105	F33	S	Titanic
+518	0	3	Ryan, Mr. Patrick	m	35.929165507649515	0	0	371110	2415		Q	Titanic
+519	1	2	"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)"	f	36.0	1	0	226875	26		S	Titanic
+520	0	3	Pavlovic, Mr. Stefo	m	32.0	0	0	349242	78958		S	Titanic
+521	1	1	Hoyt, Mr. Frederick Maxfield	m	38.0	1	0	19943	90	C93	S	Titanic
+522	0	3	Vovk, Mr. Janko	m	22.0	0	0	349252	78958		S	Titanic
+523	0	3	Lahoud, Mr. Sarkis	m	-12.0	0	0	2624	7225		C	Titanic
+524	1	1	Hippach, Mrs. Louis Albert (Ida Sophia Fischer)	f	44.0	0	1	111361	579792	B18	C	Titanic
+525	0	3	Kassem, Mr. Fared	m	35.929165507649515	0	0	2700	72292		C	Titanic
+526	0	3	Farrell, Mr. James	m	40.5	0	0	367232	775		Q	Titanic
+527	1	2	Ridsdale, Miss. Lucy	f	50.0	0	0	W./C. 14258	105		S	Titanic
+528	0	1	Farthing, Mr. John	m	35.929165507649515	0	0	PC 17483	2217792	C95	S	Titanic
+529	0	3	Salonen, Mr. Johan Werner	m	39.0	0	0	3101296	7925		S	Titanic
+530	0	2	Hocking, Mr. Richard George	m	23.0	2	1	29104	115		S	Titanic
+531	1	2	Quick, Miss. Phyllis May	f	2.0	1	1	26360	26		S	Titanic
+532	0	3	Toufik, Mr. Nakli	m	35.929165507649515	0	0	2641	72292		C	Titanic
+533	0	3	Elias, Mr. Joseph Jr	m	17.0	1	1	2690	72292		C	Titanic
+534	1	3	Peter, Mrs. Catherine (Catherine Rizk)	f	35.929165507649515	0	2	2668	223583		C	Titanic
+535	0	3	Cacic, Miss. Marija	f	30.0	0	0	315084	86625		S	Titanic
+536	1	2	Hart, Miss. Eva Miriam	f	7.0	0	2	F.C.C. 13529	2625		S	Titanic
+537	0	1	Butt, Major. Archibald Willingham	m	45.0	0	0	113050	2655	B38	S	Titanic
+538	1	1	LeRoy, Miss. Bertha	f	30.0	0	0	PC 17761	106425		C	Titanic
+539	0	3	Risien, Mr. Samuel Beard	m	35.929165507649515	0	0	364498	145		S	Titanic
+540	1	1	Frolicher, Miss. Hedwig Margaritha	f	22.0	0	2	13568	495	B39	C	Titanic
+541	1	1	Crosby, Miss. Harriet R	f	36.0	0	2	WE/P 5735	71	B22	S	Titanic
+542	0	3	Andersson, Miss. Ingeborg Constanzia	f	9.0	4	2	347082	31275		S	Titanic
+543	0	3	Andersson, Miss. Sigrid Elisabeth	f	11.0	4	2	347082	31275		S	Titanic
+544	1	2	Beane, Mr. Edward	m	32.0	1	0	2908	26		S	Titanic
+545	0	1	Douglas, Mr. Walter Donald	m	50.0	1	0	PC 17761	106425	C86	C	Titanic
+546	0	1	Nicholson, Mr. Arthur Ernest	m	64.0	0	0	693	26		S	Titanic
+547	1	2	Beane, Mrs. Edward (Ethel Clarke)	f	19.0	1	0	2908	26		S	Titanic
+548	1	2	Padro y Manent, Mr. Julian	m	35.929165507649515	0	0	SC/PARIS 2146	138625		C	Titanic
+549	0	3	Goldsmith, Mr. Frank John	m	33.0	1	1	363291	20525		S	Titanic
+550	1	2	Davies, Master. John Morgan Jr	m	8.0	1	1	C.A. 33112	3675		S	Titanic
+551	1	1	Thayer, Mr. John Borland Jr	m	17.0	0	2	17421	1108833	C70	C	Titanic
+552	0	2	Sharp, Mr. Percival James R	m	27.0	0	0	244358	26		S	Titanic
+553	0	3	O'Brien, Mr. Timothy	m	35.929165507649515	0	0	330979	78292		Q	Titanic
+554	1	3	"Leeni, Mr. Fahim (""Philip Zenni"")"	m	22.0	0	0	2620	7225		C	Titanic
+555	1	3	Ohman, Miss. Velin	f	22.0	0	0	347085	7775		S	Titanic
+556	0	1	Wright, Mr. George	m	62.0	0	0	113807	2655		S	Titanic
+557	1	1	"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")"	f	48.0	1	0	11755	396	A16	C	Titanic
+558	0	1	Robbins, Mr. Victor	m	35.929165507649515	0	0	PC 17757	227525		C	Titanic
+559	1	1	Taussig, Mrs. Emil (Tillie Mandelbaum)	f	39.0	1	1	110413	7965	E67	S	Titanic
+560	1	3	de Messemaeker, Mrs. Guillaume Joseph (Emma)	f	36.0	1	0	345572	174		S	Titanic
+561	0	3	Morrow, Mr. Thomas Rowan	m	35.929165507649515	0	0	372622	775		Q	Titanic
+562	0	3	Sivic, Mr. Husein	m	40.0	0	0	349251	78958		S	Titanic
+563	0	2	Norman, Mr. Robert Douglas	m	28.0	0	0	218629	135		S	Titanic
+564	0	3	Simmons, Mr. John	m	35.929165507649515	0	0	SOTON/OQ 392082	805		S	Titanic
+565	0	3	Meanwell, Miss. (Marion Ogden)	f	35.929165507649515	0	0	SOTON/O.Q. 392087	805		S	Titanic
+566	0	3	Davies, Mr. Alfred J	m	24.0	2	0	A/4 48871	2415		S	Titanic
+567	0	3	Stoytcheff, Mr. Ilia	m	19.0	0	0	349205	78958		S	Titanic
+568	0	3	Palsson, Mrs. Nils (Alma Cornelia Berglund)	f	29.0	0	4	349909	21075		S	Titanic
+569	0	3	Doharr, Mr. Tannous	m	35.929165507649515	0	0	2686	72292		C	Titanic
+570	1	3	Jonsson, Mr. Carl	m	32.0	0	0	350417	78542		S	Titanic
+571	1	2	Harris, Mr. George	m	62.0	0	0	S.W./PP 752	105		S	Titanic
+572	1	1	Appleton, Mrs. Edward Dale (Charlotte Lamson)	f	53.0	2	0	11769	514792	C101	S	Titanic
+573	1	1	"Flynn, Mr. John Irwin (""Irving"")"	m	36.0	0	0	PC 17474	263875	E25	S	Titanic
+574	1	3	Kelly, Miss. Mary	f	35.929165507649515	0	0	14312	775		Q	Titanic
+575	0	3	Rush, Mr. Alfred George John	m	16.0	0	0	A/4. 20589	805		S	Titanic
+576	0	3	Patchett, Mr. George	m	19.0	0	0	358585	145		S	Titanic
+577	1	2	Garside, Miss. Ethel	f	34.0	0	0	243880	13		S	Titanic
+578	1	1	Silvey, Mrs. William Baird (Alice Munger)	f	39.0	1	0	13507	559	E44	S	Titanic
+579	0	3	Caram, Mrs. Joseph (Maria Elias)	f	35.929165507649515	1	0	2689	144583		C	Titanic
+580	1	3	Jussila, Mr. Eiriik	m	32.0	0	0	STON/O 2. 3101286	7925		S	Titanic
+581	1	2	Christy, Miss. Julie Rachel	f	25.0	1	1	237789	30		S	Titanic
+582	1	1	Thayer, Mrs. John Borland (Marian Longstreth Morris)	f	39.0	1	1	17421	1108833	C68	C	Titanic
+583	0	2	Downton, Mr. William James	m	54.0	0	0	28403	26		S	Titanic
+584	0	1	Ross, Mr. John Hugo	m	36.0	0	0	13049	40125	A10	C	Titanic
+585	0	3	Paulner, Mr. Uscher	m	35.929165507649515	0	0	3411	87125		C	Titanic
+586	1	1	Taussig, Miss. Ruth	f	18.0	0	2	110413	7965	E68	S	Titanic
+587	0	2	Jarvis, Mr. John Denzil	m	47.0	0	0	237565	15		S	Titanic
+588	1	1	Frolicher-Stehli, Mr. Maxmillian	m	60.0	1	1	13567	792	B41	C	Titanic
+589	0	3	Gilinski, Mr. Eliezer	m	22.0	0	0	14973	805		S	Titanic
+590	0	3	Murdlin, Mr. Joseph	m	35.929165507649515	0	0	A./5. 3235	805		S	Titanic
+591	0	3	Rintamaki, Mr. Matti	m	35.0	0	0	STON/O 2. 3101273	7125		S	Titanic
+592	1	1	Stephenson, Mrs. Walter Bertram (Martha Eustis)	f	52.0	1	0	36947	782667	D20	C	Titanic
+593	0	3	Elsbury, Mr. William James	m	47.0	0	0	A/5 3902	725		S	Titanic
+594	0	3	Bourke, Miss. Mary	f	35.929165507649515	0	2	364848	775		Q	Titanic
+595	0	2	Chapman, Mr. John Henry	m	37.0	1	0	SC/AH 29037	26		S	Titanic
+596	0	3	Van Impe, Mr. Jean Baptiste	m	36.0	1	1	345773	2415		S	Titanic
+597	1	2	Leitch, Miss. Jessie Wills	f	35.929165507649515	0	0	248727	33		S	Titanic
+598	0	3	Johnson, Mr. Alfred	m	49.0	0	0	LINE	0		S	Titanic
+599	0	3	Boulos, Mr. Hanna	m	35.929165507649515	0	0	2664	7225		C	Titanic
+600	1	1	"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")"	m	49.0	1	0	PC 17485	569292	A20	C	Titanic
+601	1	2	Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)	f	24.0	2	1	243847	27		S	Titanic
+602	0	3	Slabenoff, Mr. Petco	m	35.929165507649515	0	0	349214	78958		S	Titanic
+603	0	1	Harrington, Mr. Charles H	m	35.929165507649515	0	0	113796	424		S	Titanic
+604	0	3	Torber, Mr. Ernst William	m	44.0	0	0	364511	805		S	Titanic
+605	1	1	"Homer, Mr. Harry (""Mr E Haven"")"	m	35.0	0	0	111426	2655		C	Titanic
+606	0	3	Lindell, Mr. Edvard Bengtsson	m	36.0	1	0	349910	1555		S	Titanic
+607	0	3	Karaic, Mr. Milan	m	30.0	0	0	349246	78958		S	Titanic
+608	1	1	Daniel, Mr. Robert Williams	m	27.0	0	0	113804	305		S	Titanic
+609	1	2	Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)	f	22.0	1	2	SC/Paris 2123	415792		C	Titanic
+610	1	1	Shutes, Miss. Elizabeth W	f	40.0	0	0	PC 17582	1534625	C125	S	Titanic
+611	0	3	Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)	f	39.0	1	5	347082	31275		S	Titanic
+612	0	3	Jardin, Mr. Jose Neto	m	35.929165507649515	0	0	SOTON/O.Q. 3101305	705		S	Titanic
+613	1	3	Murphy, Miss. Margaret Jane	f	35.929165507649515	1	0	367230	155		Q	Titanic
+614	0	3	Horgan, Mr. John	m	35.929165507649515	0	0	370377	775		Q	Titanic
+615	0	3	Brocklebank, Mr. William Alfred	m	35.0	0	0	364512	805		S	Titanic
+616	1	2	Herman, Miss. Alice	f	24.0	1	2	220845	65		S	Titanic
+617	0	3	Danbom, Mr. Ernst Gilbert	m	34.0	1	1	347080	144		S	Titanic
+618	0	3	Lobb, Mrs. William Arthur (Cordelia K Stanlick)	f	26.0	1	0	A/5. 3336	161		S	Titanic
+619	1	2	Becker, Miss. Marion Louise	f	4.0	2	1	230136	39	F4	S	Titanic
+620	0	2	Gavey, Mr. Lawrence	m	26.0	0	0	31028	105		S	Titanic
+621	0	3	Yasbeck, Mr. Antoni	m	27.0	1	0	2659	144542		C	Titanic
+622	1	1	Kimball, Mr. Edwin Nelson Jr	m	42.0	1	0	11753	525542	D19	S	Titanic
+623	1	3	Nakid, Mr. Sahid	m	20.0	1	1	2653	157417		C	Titanic
+624	0	3	Hansen, Mr. Henry Damsgaard	m	21.0	0	0	350029	78542		S	Titanic
+625	0	3	"Bowen, Mr. David John ""Dai"""	m	21.0	0	0	54636	161		S	Titanic
+626	0	1	Sutton, Mr. Frederick	m	61.0	0	0	36963	323208	D50	S	Titanic
+627	0	2	Kirkland, Rev. Charles Leonard	m	57.0	0	0	219533	1235		Q	Titanic
+628	1	1	Longley, Miss. Gretchen Fiske	f	21.0	0	0	13502	779583	D9	S	Titanic
+629	0	3	Bostandyeff, Mr. Guentcho	m	26.0	0	0	349224	78958		S	Titanic
+630	0	3	O'Connell, Mr. Patrick D	m	35.929165507649515	0	0	334912	77333		Q	Titanic
+631	1	1	Barkworth, Mr. Algernon Henry Wilson	m	80.0	0	0	27042	30	A23	S	Titanic
+632	0	3	Lundahl, Mr. Johan Svensson	m	51.0	0	0	347743	70542		S	Titanic
+633	1	1	Stahelin-Maeglin, Dr. Max	m	32.0	0	0	13214	305	B50	C	Titanic
+634	0	1	Parr, Mr. William Henry Marsh	m	35.929165507649515	0	0	112052	0		S	Titanic
+635	0	3	Skoog, Miss. Mabel	f	9.0	3	2	347088	279		S	Titanic
+636	1	2	Davis, Miss. Mary	f	28.0	0	0	237668	13		S	Titanic
+637	0	3	Leinonen, Mr. Antti Gustaf	m	32.0	0	0	STON/O 2. 3101292	7925		S	Titanic
+638	0	2	Collyer, Mr. Harvey	m	31.0	1	1	C.A. 31921	2625		S	Titanic
+639	0	3	Panula, Mrs. Juha (Maria Emilia Ojala)	f	41.0	0	5	3101295	396875		S	Titanic
+640	0	3	Thorneycroft, Mr. Percival	m	35.929165507649515	1	0	376564	161		S	Titanic
+641	0	3	Jensen, Mr. Hans Peder	m	20.0	0	0	350050	78542		S	Titanic
+642	1	1	Sagesser, Mlle. Emma	f	24.0	0	0	PC 17477	693	B35	C	Titanic
+643	0	3	Skoog, Miss. Margit Elizabeth	f	2.0	3	2	347088	279		S	Titanic
+644	1	3	Foo, Mr. Choong	m	35.929165507649515	0	0	1601	564958		S	Titanic
+645	1	3	Baclini, Miss. Eugenie	f	0.75	2	1	2666	192583		C	Titanic
+646	1	1	Harper, Mr. Henry Sleeper	m	48.0	1	0	PC 17572	767292	D33	C	Titanic
+647	0	3	Cor, Mr. Liudevit	m	19.0	0	0	349231	78958		S	Titanic
+648	1	1	Simonius-Blumer, Col. Oberst Alfons	m	56.0	0	0	13213	355	A26	C	Titanic
+649	0	3	Willey, Mr. Edward	m	35.929165507649515	0	0	S.O./P.P. 751	755		S	Titanic
+650	1	3	Stanley, Miss. Amy Zillah Elsie	f	23.0	0	0	CA. 2314	755		S	Titanic
+651	0	3	Mitkoff, Mr. Mito	m	35.929165507649515	0	0	349221	78958		S	Titanic
+652	1	2	Doling, Miss. Elsie	f	18.0	0	1	231919	23		S	Titanic
+653	0	3	Kalvik, Mr. Johannes Halvorsen	m	21.0	0	0	8475	84333		S	Titanic
+654	1	3	"O'Leary, Miss. Hanora ""Norah"""	f	35.929165507649515	0	0	330919	78292		Q	Titanic
+655	0	3	"Hegarty, Miss. Hanora ""Nora"""	f	18.0	0	0	365226	675		Q	Titanic
+656	0	2	Hickman, Mr. Leonard Mark	m	24.0	2	0	S.O.C. 14879	735		S	Titanic
+657	0	3	Radeff, Mr. Alexander	m	35.929165507649515	0	0	349223	78958		S	Titanic
+658	0	3	Bourke, Mrs. John (Catherine)	f	32.0	1	1	364849	155		Q	Titanic
+659	0	2	Eitemiller, Mr. George Floyd	m	23.0	0	0	29751	13		S	Titanic
+660	0	1	Newell, Mr. Arthur Webster	m	58.0	0	2	35273	113275	D48	C	Titanic
+661	1	1	Frauenthal, Dr. Henry William	m	50.0	2	0	PC 17611	13365		S	Titanic
+662	0	3	Badt, Mr. Mohamed	m	40.0	0	0	2623	7225		C	Titanic
+663	0	1	Colley, Mr. Edward Pomeroy	m	47.0	0	0	5727	255875	E58	S	Titanic
+664	0	3	Coleff, Mr. Peju	m	36.0	0	0	349210	74958		S	Titanic
+665	1	3	Lindqvist, Mr. Eino William	m	20.0	1	0	STON/O 2. 3101285	7925		S	Titanic
+666	0	2	Hickman, Mr. Lewis	m	32.0	2	0	S.O.C. 14879	735		S	Titanic
+667	0	2	Butler, Mr. Reginald Fenton	m	250.0	0	0	234686	13		S	Titanic
+668	0	3	Rommetvedt, Mr. Knud Paust	m	35.929165507649515	0	0	312993	7775		S	Titanic
+669	0	3	Cook, Mr. Jacob	m	43.0	0	0	A/5 3536	805		S	Titanic
+670	1	1	Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)	f	35.929165507649515	1	0	19996	52	C126	S	Titanic
+671	1	2	Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)	f	40.0	1	1	29750	39		S	Titanic
+672	0	1	Davidson, Mr. Thornton	m	31.0	1	0	F.C. 12750	52	B71	S	Titanic
+673	0	2	Mitchell, Mr. Henry Michael	m	70.0	0	0	C.A. 24580	105		S	Titanic
+674	1	2	Wilhelms, Mr. Charles	m	31.0	0	0	244270	13		S	Titanic
+675	0	2	Watson, Mr. Ennis Hastings	m	35.929165507649515	0	0	239856	0		S	Titanic
+676	0	3	Edvardsson, Mr. Gustaf Hjalmar	m	18.0	0	0	349912	7775		S	Titanic
+677	0	3	Sawyer, Mr. Frederick Charles	m	24.5	0	0	342826	805		S	Titanic
+678	1	3	Turja, Miss. Anna Sofia	f	18.0	0	0	4138	98417		S	Titanic
+679	1	1	Hoytt, Mr. Frederick Maxfield	m	38.0	1	0	19943	90	C93	S	Titanic
+680	1	1	Cardeza, Mr. Thomas Drake Martinez	m	36.0	0	1	PC 17755	5123292	B51 B53 B55	C	Titanic
+681	0	3	Peters, Miss. Katie	f	35.929165507649515	0	0	330935	81375		Q	Titanic
+682	1	1	Hassab, Mr. Hammad	m	27.0	0	0	PC 17572	767292	D49	C	Titanic
+683	0	3	Olsvigen, Mr. Thor Anderson	m	20.0	0	0	6563	9225		S	Titanic
+684	0	3	Goodwin, Mr. Charles Edward	m	14.0	5	2	CA 2144	469		S	Titanic
+685	0	2	Brown, Mr. Thomas William Solomon	m	60.0	1	1	29750	39		S	Titanic
+686	0	2	Laroche, Mr. Joseph Philippe Lemercier	m	25.0	1	2	SC/Paris 2123	415792		C	Titanic
+687	0	3	Panula, Mr. Jaako Arnold	m	14.0	4	1	3101295	396875		S	Titanic
+688	0	3	Dakic, Mr. Branko	m	19.0	0	0	349228	101708		S	Titanic
+689	0	3	Fischer, Mr. Eberhard Thelander	m	18.0	0	0	350036	77958		S	Titanic
+690	1	1	Madill, Miss. Georgette Alexandra	f	15.0	0	1	24160	2113375	B5	S	Titanic
+691	1	1	Dick, Mr. Albert Adrian	m	31.0	1	0	17474	57	B20	S	Titanic
+692	1	3	Karun, Miss. Manca	f	4.0	0	1	349256	134167		C	Titanic
+693	1	3	Lam, Mr. Ali	m	35.929165507649515	0	0	1601	564958		S	Titanic
+694	0	3	Saad, Mr. Khalil	m	25.0	0	0	2672	7225		C	Titanic
+695	0	1	Weir, Col. John	m	60.0	0	0	113800	2655		S	Titanic
+696	0	2	Chapman, Mr. Charles Henry	m	52.0	0	0	248731	135		S	Titanic
+697	0	3	Kelly, Mr. James	m	44.0	0	0	363592	805		S	Titanic
+698	1	3	"Mullens, Miss. Katherine ""Katie"""	f	35.929165507649515	0	0	35852	77333		Q	Titanic
+699	0	1	Thayer, Mr. John Borland	m	49.0	1	1	17421	1108833	C68	C	Titanic
+700	0	3	Humblen, Mr. Adolf Mathias Nicolai Olsen	m	42.0	0	0	348121	765	F G63	S	Titanic
+701	1	1	Astor, Mrs. John Jacob (Madeleine Talmadge Force)	f	18.0	1	0	PC 17757	227525	C62 C64	C	Titanic
+702	1	1	Silverthorne, Mr. Spencer Victor	m	35.0	0	0	PC 17475	262875	E24	S	Titanic
+703	0	3	Barbara, Miss. Saiide	f	18.0	0	1	2691	144542		C	Titanic
+704	0	3	Gallagher, Mr. Martin	m	25.0	0	0	36864	77417		Q	Titanic
+705	0	3	Hansen, Mr. Henrik Juul	m	26.0	1	0	350025	78542		S	Titanic
+706	0	2	"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")"	m	39.0	0	0	250655	26		S	Titanic
+707	1	2	"Kelly, Mrs. Florence ""Fannie"""	f	45.0	0	0	223596	135		S	Titanic
+708	1	1	Calderhead, Mr. Edward Pennington	m	42.0	0	0	PC 17476	262875	E24	S	Titanic
+709	1	1	Cleaver, Miss. Alice	f	22.0	0	0	113781	15155		S	Titanic
+710	1	3	"Moubarek, Master. Halim Gonios (""William George"")"	m	35.929165507649515	1	1	2661	152458		C	Titanic
+711	1	1	"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")"	f	24.0	0	0	PC 17482	495042	C90	C	Titanic
+712	0	1	Klaber, Mr. Herman	m	35.929165507649515	0	0	113028	2655	C124	S	Titanic
+713	1	1	Taylor, Mr. Elmer Zebley	m	48.0	1	0	19996	52	C126	S	Titanic
+714	0	3	Larsson, Mr. August Viktor	m	29.0	0	0	7545	94833		S	Titanic
+715	0	2	Greenberg, Mr. Samuel	m	52.0	0	0	250647	13		S	Titanic
+716	0	3	Soholt, Mr. Peter Andreas Lauritz Andersen	m	19.0	0	0	348124	765	F G73	S	Titanic
+717	1	1	Endres, Miss. Caroline Louise	f	38.0	0	0	PC 17757	227525	C45	C	Titanic
+718	1	2	"Troutt, Miss. Edwina Celia ""Winnie"""	f	27.0	0	0	34218	105	E101	S	Titanic
+719	0	3	McEvoy, Mr. Michael	m	35.929165507649515	0	0	36568	155		Q	Titanic
+720	0	3	Johnson, Mr. Malkolm Joackim	m	33.0	0	0	347062	7775		S	Titanic
+721	1	2	"Harper, Miss. Annie Jessie ""Nina"""	f	6.0	0	1	248727	33		S	Titanic
+722	0	3	Jensen, Mr. Svend Lauritz	m	17.0	1	0	350048	70542		S	Titanic
+723	0	2	Gillespie, Mr. William Henry	m	34.0	0	0	12233	13		S	Titanic
+724	0	2	Hodges, Mr. Henry Price	m	50.0	0	0	250643	13		S	Titanic
+725	1	1	Chambers, Mr. Norman Campbell	m	27.0	1	0	113806	531	E8	S	Titanic
+726	0	3	Oreskovic, Mr. Luka	m	20.0	0	0	315094	86625		S	Titanic
+727	1	2	Renouf, Mrs. Peter Henry (Lillian Jefferys)	f	30.0	3	0	31027	21		S	Titanic
+728	1	3	Mannion, Miss. Margareth	f	35.929165507649515	0	0	36866	77375		Q	Titanic
+729	0	2	Bryhl, Mr. Kurt Arnold Gottfrid	m	25.0	1	0	236853	26		S	Titanic
+730	0	3	Ilmakangas, Miss. Pieta Sofia	f	25.0	1	0	STON/O2. 3101271	7925		S	Titanic
+731	1	1	Allen, Miss. Elisabeth Walton	f	29.0	0	0	24160	2113375	B5	S	Titanic
+732	0	3	Hassan, Mr. Houssein G N	m	11.0	0	0	2699	187875		C	Titanic
+733	0	2	Knight, Mr. Robert J	m	35.929165507649515	0	0	239855	0		S	Titanic
+734	0	2	Berriman, Mr. William John	m	23.0	0	0	28425	13		S	Titanic
+735	0	2	Troupiansky, Mr. Moses Aaron	m	23.0	0	0	233639	13		S	Titanic
+736	0	3	Williams, Mr. Leslie	m	28.5	0	0	54636	161		S	Titanic
+737	0	3	Ford, Mrs. Edward (Margaret Ann Watson)	f	48.0	1	3	W./C. 6608	34375		S	Titanic
+738	1	1	Lesurer, Mr. Gustave J	m	35.0	0	0	PC 17755	5123292	B101	C	Titanic
+739	0	3	Ivanoff, Mr. Kanio	m	35.929165507649515	0	0	349201	78958		S	Titanic
+740	0	3	Nankoff, Mr. Minko	m	35.929165507649515	0	0	349218	78958		S	Titanic
+741	1	1	Hawksford, Mr. Walter James	m	35.929165507649515	0	0	16988	30	D45	S	Titanic
+742	0	1	Cavendish, Mr. Tyrell William	m	36.0	1	0	19877	7885	C46	S	Titanic
+743	1	1	"Ryerson, Miss. Susan Parker ""Suzette"""	f	21.0	2	2	PC 17608	262375	B57 B59 B63 B66	C	Titanic
+744	0	3	McNamee, Mr. Neal	m	24.0	1	0	376566	161		S	Titanic
+745	1	3	Stranden, Mr. Juho	m	31.0	0	0	STON/O 2. 3101288	7925		S	Titanic
+746	0	1	Crosby, Capt. Edward Gifford	m	70.0	1	1	WE/P 5735	71	B22	S	Titanic
+747	0	3	Abbott, Mr. Rossmore Edward	m	16.0	1	1	C.A. 2673	2025		S	Titanic
+748	1	2	Sinkkonen, Miss. Anna	f	30.0	0	0	250648	13		S	Titanic
+749	0	1	Marvin, Mr. Daniel Warner	m	19.0	1	0	113773	531	D30	S	Titanic
+750	0	3	Connaghton, Mr. Michael	m	31.0	0	0	335097	775		Q	Titanic
+751	1	2	Wells, Miss. Joan	f	4.0	1	1	29103	23		S	Titanic
+752	1	3	Moor, Master. Meier	m	6.0	0	1	392096	12475	E121	S	Titanic
+753	0	3	Vande Velde, Mr. Johannes Joseph	m	33.0	0	0	345780	95		S	Titanic
+754	0	3	Jonkoff, Mr. Lalio	m	23.0	0	0	349204	78958		S	Titanic
+755	1	2	Herman, Mrs. Samuel (Jane Laver)	f	48.0	1	2	220845	65		S	Titanic
+756	1	2	Hamalainen, Master. Viljo	m	0.67	1	1	250649	145		S	Titanic
+757	0	3	Carlsson, Mr. August Sigfrid	m	28.0	0	0	350042	77958		S	Titanic
+758	0	2	Bailey, Mr. Percy Andrew	m	18.0	0	0	29108	115		S	Titanic
+759	0	3	Theobald, Mr. Thomas Leonard	m	34.0	0	0	363294	805		S	Titanic
+760	1	1	Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)	f	33.0	0	0	110152	865	B77	S	Titanic
+761	0	3	Garfirth, Mr. John	m	35.929165507649515	0	0	358585	145		S	Titanic
+762	0	3	Nirva, Mr. Iisakki Antino Aijo	m	41.0	0	0	SOTON/O2 3101272	7125		S	Titanic
+763	1	3	Barah, Mr. Hanna Assi	m	20.0	0	0	2663	72292		C	Titanic
+764	1	1	Carter, Mrs. William Ernest (Lucile Polk)	f	36.0	1	2	113760	120	B96 B98	S	Titanic
+765	0	3	Eklund, Mr. Hans Linus	m	16.0	0	0	347074	7775		S	Titanic
+766	1	1	Hogeboom, Mrs. John C (Anna Andrews)	f	51.0	1	0	13502	779583	D11	S	Titanic
+767	0	1	Brewe, Dr. Arthur Jackson	m	35.929165507649515	0	0	112379	396		C	Titanic
+768	0	3	Mangan, Miss. Mary	f	30.5	0	0	364850	775		Q	Titanic
+769	0	3	Moran, Mr. Daniel J	m	35.929165507649515	1	0	371110	2415		Q	Titanic
+770	0	3	Gronnestad, Mr. Daniel Danielsen	m	32.0	0	0	8471	83625		S	Titanic
+771	0	3	Lievens, Mr. Rene Aime	m	24.0	0	0	345781	95		S	Titanic
+772	0	3	Jensen, Mr. Niels Peder	m	48.0	0	0	350047	78542		S	Titanic
+773	0	2	Mack, Mrs. (Mary)	f	57.0	0	0	S.O./P.P. 3	105	E77	S	Titanic
+774	0	3	Elias, Mr. Dibo	m	35.929165507649515	0	0	2674	7225		C	Titanic
+775	1	2	Hocking, Mrs. Elizabeth (Eliza Needs)	f	54.0	1	3	29105	23		S	Titanic
+776	0	3	Myhrman, Mr. Pehr Fabian Oliver Malkolm	m	18.0	0	0	347078	775		S	Titanic
+777	0	3	Tobin, Mr. Roger	m	35.929165507649515	0	0	383121	775	F38	Q	Titanic
+778	1	3	Emanuel, Miss. Virginia Ethel	f	5.0	0	0	364516	12475		S	Titanic
+779	0	3	Kilgannon, Mr. Thomas J	m	35.929165507649515	0	0	36865	77375		Q	Titanic
+780	1	1	Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)	f	43.0	0	1	24160	2113375	B3	S	Titanic
+781	1	3	Ayoub, Miss. Banoura	f	13.0	0	0	2687	72292		C	Titanic
+782	1	1	Dick, Mrs. Albert Adrian (Vera Gillespie)	f	17.0	1	0	17474	57	B20	S	Titanic
+783	0	1	Long, Mr. Milton Clyde	m	29.0	0	0	113501	30	D6	S	Titanic
+784	0	3	Johnston, Mr. Andrew G	m	35.929165507649515	1	2	W./C. 6607	2345		S	Titanic
+785	0	3	Ali, Mr. William	m	25.0	0	0	SOTON/O.Q. 3101312	705		S	Titanic
+786	0	3	Harmer, Mr. Abraham (David Lishin)	m	25.0	0	0	374887	725		S	Titanic
+787	1	3	Sjoblom, Miss. Anna Sofia	f	18.0	0	0	3101265	74958		S	Titanic
+788	0	3	Rice, Master. George Hugh	m	8.0	4	1	382652	29125		Q	Titanic
+789	1	3	Dean, Master. Bertram Vere	m	1.0	1	2	C.A. 2315	20575		S	Titanic
+790	0	1	Guggenheim, Mr. Benjamin	m	46.0	0	0	PC 17593	792	B82 B84	C	Titanic
+791	0	3	"Keane, Mr. Andrew ""Andy"""	m	35.929165507649515	0	0	12460	775		Q	Titanic
+792	0	2	Gaskell, Mr. Alfred	m	16.0	0	0	239865	26		S	Titanic
+793	0	3	Sage, Miss. Stella Anna	f	35.929165507649515	8	2	CA. 2343	6955		S	Titanic
+794	0	1	Hoyt, Mr. William Fisher	m	35.929165507649515	0	0	PC 17600	306958		C	Titanic
+795	0	3	Dantcheff, Mr. Ristiu	m	25.0	0	0	349203	78958		S	Titanic
+796	0	2	Otter, Mr. Richard	m	39.0	0	0	28213	13		S	Titanic
+797	1	1	Leader, Dr. Alice (Farnham)	f	49.0	0	0	17465	259292	D17	S	Titanic
+798	1	3	Osman, Mrs. Mara	f	31.0	0	0	349244	86833		S	Titanic
+799	0	3	Ibrahim Shawah, Mr. Yousseff	m	30.0	0	0	2685	72292		C	Titanic
+800	0	3	Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)	f	30.0	1	1	345773	2415		S	Titanic
+801	0	2	Ponesell, Mr. Martin	m	34.0	0	0	250647	13		S	Titanic
+802	1	2	Collyer, Mrs. Harvey (Charlotte Annie Tate)	f	31.0	1	1	C.A. 31921	2625		S	Titanic
+803	1	1	Carter, Master. William Thornton II	m	11.0	1	2	113760	120	B96 B98	S	Titanic
+804	1	3	Thomas, Master. Assad Alexander	m	0.42	0	1	2625	85167		C	Titanic
+805	1	3	Hedman, Mr. Oskar Arvid	m	27.0	0	0	347089	6975		S	Titanic
+806	0	3	Johansson, Mr. Karl Johan	m	31.0	0	0	347063	7775		S	Titanic
+807	0	1	Andrews, Mr. Thomas Jr	m	39.0	0	0	112050	0	A36	S	Titanic
+808	0	3	Pettersson, Miss. Ellen Natalia	f	18.0	0	0	347087	7775		S	Titanic
+809	0	2	Meyer, Mr. August	m	39.0	0	0	248723	13		S	Titanic
+810	1	1	Chambers, Mrs. Norman Campbell (Bertha Griggs)	f	33.0	1	0	113806	531	E8	S	Titanic
+811	0	3	Alexander, Mr. William	m	26.0	0	0	3474	78875		S	Titanic
+812	0	3	Lester, Mr. James	m	39.0	0	0	A/4 48871	2415		S	Titanic
+813	0	2	Slemen, Mr. Richard James	m	35.0	0	0	28206	105		S	Titanic
+814	0	3	Andersson, Miss. Ebba Iris Alfrida	f	6.0	4	2	347082	31275		S	Titanic
+815	0	3	Tomlin, Mr. Ernest Portage	m	30.5	0	0	364499	805		S	Titanic
+816	0	1	Fry, Mr. Richard	m	35.929165507649515	0	0	112058	0	B102	S	Titanic
+817	0	3	Heininen, Miss. Wendla Maria	f	23.0	0	0	STON/O2. 3101290	7925		S	Titanic
+818	0	2	Mallet, Mr. Albert	m	31.0	1	1	S.C./PARIS 2079	370042		C	Titanic
+819	0	3	Holm, Mr. John Fredrik Alexander	m	43.0	0	0	C 7075	645		S	Titanic
+820	0	3	Skoog, Master. Karl Thorsten	m	10.0	3	2	347088	279		S	Titanic
+821	1	1	Hays, Mrs. Charles Melville (Clara Jennings Gregg)	f	52.0	1	1	12749	935	B69	S	Titanic
+822	1	3	Lulic, Mr. Nikola	m	27.0	0	0	315098	86625		S	Titanic
+823	0	1	Reuchlin, Jonkheer. John George	m	38.0	0	0	19972	0		S	Titanic
+824	1	3	Moor, Mrs. (Beila)	f	27.0	0	1	392096	12475	E121	S	Titanic
+825	0	3	Panula, Master. Urho Abraham	m	2.0	4	1	3101295	396875		S	Titanic
+826	0	3	Flynn, Mr. John	m	35.929165507649515	0	0	368323	695		Q	Titanic
+827	0	3	Lam, Mr. Len	m	35.929165507649515	0	0	1601	564958		S	Titanic
+828	1	2	Mallet, Master. Andre	m	1.0	0	2	S.C./PARIS 2079	370042		C	Titanic
+829	1	3	McCormack, Mr. Thomas Joseph	m	35.929165507649515	0	0	367228	775		Q	Titanic
+830	1	1	Stone, Mrs. George Nelson (Martha Evelyn)	f	62.0	0	0	113572	80	B28	n	Titanic
+831	1	3	Yasbeck, Mrs. Antoni (Selini Alexander)	f	15.0	1	0	2659	144542		C	Titanic
+832	1	2	Richards, Master. George Sibley	m	0.83	1	1	29106	1875		S	Titanic
+833	0	3	Saad, Mr. Amin	m	35.929165507649515	0	0	2671	72292		C	Titanic
+834	0	3	Augustsson, Mr. Albert	m	23.0	0	0	347468	78542		S	Titanic
+835	0	3	Allum, Mr. Owen George	m	18.0	0	0	2223	83		S	Titanic
+836	1	1	Compton, Miss. Sara Rebecca	f	39.0	1	1	PC 17756	831583	E49	C	Titanic
+837	0	3	Pasic, Mr. Jakob	m	21.0	0	0	315097	86625		S	Titanic
+838	0	3	Sirota, Mr. Maurice	m	35.929165507649515	0	0	392092	805		S	Titanic
+839	1	3	Chip, Mr. Chang	m	32.0	0	0	1601	564958		S	Titanic
+840	1	1	Marechal, Mr. Pierre	m	35.929165507649515	0	0	11774	297	C47	C	Titanic
+841	0	3	Alhomaki, Mr. Ilmari Rudolf	m	20.0	0	0	SOTON/O2 3101287	7925		S	Titanic
+842	0	2	Mudd, Mr. Thomas Charles	m	16.0	0	0	S.O./P.P. 3	105		S	Titanic
+843	1	1	Serepeca, Miss. Augusta	f	30.0	0	0	113798	31		C	Titanic
+844	0	3	Lemberopolous, Mr. Peter L	m	34.5	0	0	2683	64375		C	Titanic
+845	0	3	Culumovic, Mr. Jeso	m	17.0	0	0	315090	86625		S	Titanic
+846	0	3	Abbing, Mr. Anthony	m	42.0	0	0	C.A. 5547	755		S	Titanic
+847	0	3	Sage, Mr. Douglas Bullen	m	35.929165507649515	8	2	CA. 2343	6955		S	Titanic
+848	0	3	Markoff, Mr. Marin	m	35.0	0	0	349213	78958		C	Titanic
+849	0	2	Harper, Rev. John	m	28.0	0	1	248727	33		S	Titanic
+850	1	1	Goldenberg, Mrs. Samuel L (Edwiga Grabowska)	f	35.929165507649515	1	0	17453	891042	C92	C	Titanic
+851	0	3	Andersson, Master. Sigvard Harald Elias	m	4.0	4	2	347082	31275		S	Titanic
+852	0	3	Svensson, Mr. Johan	m	74.0	0	0	347060	7775		S	Titanic
+853	0	3	Boulos, Miss. Nourelain	f	9.0	1	1	2678	152458		C	Titanic
+854	1	1	Lines, Miss. Mary Conover	f	16.0	0	1	PC 17592	394	D28	S	Titanic
+855	0	2	Carter, Mrs. Ernest Courtenay (Lilian Hughes)	f	44.0	1	0	244252	26		S	Titanic
+856	1	3	Aks, Mrs. Sam (Leah Rosen)	f	18.0	0	1	392091	935		S	Titanic
+857	1	1	Wick, Mrs. George Dennick (Mary Hitchcock)	f	45.0	1	1	36928	1648667		S	Titanic
+858	1	1	Daly, Mr. Peter Denis	m	51.0	0	0	113055	2655	E17	S	Titanic
+859	1	3	Baclini, Mrs. Solomon (Latifa Qurban)	f	24.0	0	3	2666	192583		C	Titanic
+860	0	3	Razi, Mr. Raihed	m	35.929165507649515	0	0	2629	72292		C	Titanic
+861	0	3	Hansen, Mr. Claus Peter	m	41.0	2	0	350026	141083		S	Titanic
+862	0	2	Giles, Mr. Frederick Edward	m	21.0	1	0	28134	115		S	Titanic
+863	1	1	Swift, Mrs. Frederick Joel (Margaret Welles Barron)	f	48.0	0	0	17466	259292	D17	S	Titanic
+864	0	3	"Sage, Miss. Dorothy Edith ""Dolly"""	f	35.929165507649515	8	2	CA. 2343	6955		S	Titanic
+865	0	2	Gill, Mr. John William	m	24.0	0	0	233866	13		S	Titanic
+866	1	2	Bystrom, Mrs. (Karolina)	f	42.0	0	0	236852	13		S	Titanic
+867	1	2	Duran y More, Miss. Asuncion	f	27.0	1	0	SC/PARIS 2149	138583		C	Titanic
+868	0	1	Roebling, Mr. Washington Augustus II	m	31.0	0	0	PC 17590	504958	A24	S	Titanic
+869	0	3	van Melkebeke, Mr. Philemon	m	35.929165507649515	0	0	345777	95		S	Titanic
+870	1	3	Johnson, Master. Harold Theodor	m	4.0	1	1	347742	111333		S	Titanic
+871	0	3	Balkic, Mr. Cerin	m	26.0	0	0	349248	78958		S	Titanic
+872	1	1	Beckwith, Mrs. Richard Leonard (Sallie Monypeny)	f	47.0	1	1	11751	525542	D35	S	Titanic
+873	0	1	Carlsson, Mr. Frans Olof	m	33.0	0	0	695	5	B51 B53 B55	S	Titanic
+874	0	3	Vander Cruyssen, Mr. Victor	m	47.0	0	0	345765	9		S	Titanic
+875	1	2	Abelson, Mrs. Samuel (Hannah Wizosky)	f	28.0	1	0	P/PP 3381	24		C	Titanic
+876	1	3	"Najib, Miss. Adele Kiamie ""Jane"""	f	15.0	0	0	2667	7225		C	Titanic
+877	0	3	Gustafsson, Mr. Alfred Ossian	m	20.0	0	0	7534	98458		S	Titanic
+878	0	3	Petroff, Mr. Nedelio	m	19.0	0	0	349212	78958		S	Titanic
+879	0	3	Laleff, Mr. Kristo	m	35.929165507649515	0	0	349217	78958		S	Titanic
+880	1	1	Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)	f	56.0	0	1	11767	831583	C50	C	Titanic
+881	1	2	Shelley, Mrs. William (Imanita Parrish Hall)	f	25.0	0	1	230433	26		S	Titanic
+882	0	3	Markun, Mr. Johann	m	33.0	0	0	349257	78958		S	Titanic
+883	0	3	Dahlberg, Miss. Gerda Ulrika	f	22.0	0	0	7552	105167		S	Titanic
+884	0	2	Banfield, Mr. Frederick James	m	28.0	0	0	C.A./SOTON 34068	105		S	Titanic
+885	0	3	Sutehall, Mr. Henry Jr	m	25.0	0	0	SOTON/OQ 392076	705		S	Titanic
+886	0	3	Rice, Mrs. William (Margaret Norton)	f	39.0	0	5	382652	29125		Q	Titanic
+887	0	2	Montvila, Rev. Juozas	m	27.0	0	0	211536	13		S	Titanic
+888	1	1	Graham, Miss. Margaret Edith	f	19.0	0	0	112053	30	B42	S	Titanic
+889	0	3	"Johnston, Miss. Catherine Helen ""Carrie"""	f	35.929165507649515	1	2	W./C. 6607	2345		S	Titanic
+890	1	1	Behr, Mr. Karl Howell	m	26.0	0	0	111369	30	C148	C	Titanic
+891	0	3	Dooley, Mr. Patrick	m	32.0	0	0	370376	775		Q	Titanic
+892	1	1	Mr. Frederick Maxfield Hoyt	m	38.0	1	0	19943	90	C93	S	Titanic
